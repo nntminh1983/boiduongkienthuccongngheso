@@ -1,0 +1,301 @@
+﻿ma_co_so,ten_co_so,cum,loai_co_so,thuoc,don_vi,ton_hien_tai,tieu_thu_tb_tuan_4_tuan,tang_tieu_thu_pct,ngay_du_dung,muc_canh_bao,co_canh_bao_do,ton_am,du_tren_60_ngay,luong_co_the_dieu_chuyen,luong_can_bo_sung_den_28_ngay,nhom_thuoc,co_so_cham_thau
+CS01,Trung tâm y tế khu vực số 01,Cụm Bắc,Trung tâm y tế,Paracetamol 500mg,viên,11078,1938,-7.2,40.0,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS01,Trung tâm y tế khu vực số 01,Cụm Bắc,Trung tâm y tế,Dung dịch Ringer lactat 500ml,chai,667,138,1.3,33.6,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS01,Trung tâm y tế khu vực số 01,Cụm Bắc,Trung tâm y tế,Amoxicillin 500mg,viên,6987,1190,10.8,41.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS01,Trung tâm y tế khu vực số 01,Cụm Bắc,Trung tâm y tế,Oresol,gói,1839,332,2.3,38.7,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS01,Trung tâm y tế khu vực số 01,Cụm Bắc,Trung tâm y tế,Insulin,lọ,135,27,0.7,34.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS01,Trung tâm y tế khu vực số 01,Cụm Bắc,Trung tâm y tế,Metformin 500mg,viên,8570,1583,0.6,37.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS01,Trung tâm y tế khu vực số 01,Cụm Bắc,Trung tâm y tế,Amlodipin 5mg,viên,7448,1523,11.2,34.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS01,Trung tâm y tế khu vực số 01,Cụm Bắc,Trung tâm y tế,Vitamin A,viên,1061,181,3.1,40.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS01,Trung tâm y tế khu vực số 01,Cụm Bắc,Trung tâm y tế,Salbutamol xịt,bình,189,32,-2.0,40.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS01,Trung tâm y tế khu vực số 01,Cụm Bắc,Trung tâm y tế,"Natri clorid 0,9%",chai,1018,201,8.3,35.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS02,Trung tâm y tế khu vực số 02,Cụm Nam,Trung tâm y tế,Paracetamol 500mg,viên,0,3585,25.7,0.0,Đỏ (dưới 14 ngày),1,0,0,0,14340,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS02,Trung tâm y tế khu vực số 02,Cụm Nam,Trung tâm y tế,Dung dịch Ringer lactat 500ml,chai,2794,284,38.7,68.7,Xanh (từ 28 ngày),0,0,1,1577,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS02,Trung tâm y tế khu vực số 02,Cụm Nam,Trung tâm y tế,Amoxicillin 500mg,viên,5311,1127,1.9,33.0,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS02,Trung tâm y tế khu vực số 02,Cụm Nam,Trung tâm y tế,Oresol,gói,0,581,11.8,0.0,Đỏ (dưới 14 ngày),1,0,0,0,2324,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS02,Trung tâm y tế khu vực số 02,Cụm Nam,Trung tâm y tế,Insulin,lọ,131,26,1.4,34.0,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS02,Trung tâm y tế khu vực số 02,Cụm Nam,Trung tâm y tế,Metformin 500mg,viên,8671,1526,-2.1,39.8,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS02,Trung tâm y tế khu vực số 02,Cụm Nam,Trung tâm y tế,Amlodipin 5mg,viên,8431,1437,6.2,41.0,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS02,Trung tâm y tế khu vực số 02,Cụm Nam,Trung tâm y tế,Vitamin A,viên,947,186,9.5,35.6,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS02,Trung tâm y tế khu vực số 02,Cụm Nam,Trung tâm y tế,Salbutamol xịt,bình,189,32,-7.5,40.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS02,Trung tâm y tế khu vực số 02,Cụm Nam,Trung tâm y tế,"Natri clorid 0,9%",chai,976,204,-0.8,33.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS03,Trung tâm y tế khu vực số 03,Cụm Ven biển,Trung tâm y tế,Paracetamol 500mg,viên,0,3544,7.7,0.0,Đỏ (dưới 14 ngày),1,0,0,0,14176,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS03,Trung tâm y tế khu vực số 03,Cụm Ven biển,Trung tâm y tế,Dung dịch Ringer lactat 500ml,chai,33,261,34.4,0.9,Đỏ (dưới 14 ngày),1,0,0,0,1011,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS03,Trung tâm y tế khu vực số 03,Cụm Ven biển,Trung tâm y tế,Amoxicillin 500mg,viên,5468,1159,4.5,33.0,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS03,Trung tâm y tế khu vực số 03,Cụm Ven biển,Trung tâm y tế,Oresol,gói,0,574,7.5,0.0,Đỏ (dưới 14 ngày),1,0,0,0,2296,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS03,Trung tâm y tế khu vực số 03,Cụm Ven biển,Trung tâm y tế,Insulin,lọ,166,27,1.6,42.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS03,Trung tâm y tế khu vực số 03,Cụm Ven biển,Trung tâm y tế,Metformin 500mg,viên,7028,1653,13.9,29.7,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS03,Trung tâm y tế khu vực số 03,Cụm Ven biển,Trung tâm y tế,Amlodipin 5mg,viên,8228,1360,-2.8,42.3,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS03,Trung tâm y tế khu vực số 03,Cụm Ven biển,Trung tâm y tế,Vitamin A,viên,1060,169,-2.2,43.7,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS03,Trung tâm y tế khu vực số 03,Cụm Ven biển,Trung tâm y tế,Salbutamol xịt,bình,169,32,-6.2,36.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS03,Trung tâm y tế khu vực số 03,Cụm Ven biển,Trung tâm y tế,"Natri clorid 0,9%",chai,1153,190,-2.8,42.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS04,Trung tâm y tế khu vực số 04,Cụm Miền núi,Trung tâm y tế,Paracetamol 500mg,viên,10037,2004,4.9,35.0,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS04,Trung tâm y tế khu vực số 04,Cụm Miền núi,Trung tâm y tế,Dung dịch Ringer lactat 500ml,chai,777,117,-8.6,46.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS04,Trung tâm y tế khu vực số 04,Cụm Miền núi,Trung tâm y tế,Amoxicillin 500mg,viên,5842,1112,-0.7,36.8,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS04,Trung tâm y tế khu vực số 04,Cụm Miền núi,Trung tâm y tế,Oresol,gói,1594,345,17.8,32.3,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS04,Trung tâm y tế khu vực số 04,Cụm Miền núi,Trung tâm y tế,Insulin,lọ,123,23,-6.3,35.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS04,Trung tâm y tế khu vực số 04,Cụm Miền núi,Trung tâm y tế,Metformin 500mg,viên,11035,1510,8.1,51.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS04,Trung tâm y tế khu vực số 04,Cụm Miền núi,Trung tâm y tế,Amlodipin 5mg,viên,7988,1521,4.9,36.8,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS04,Trung tâm y tế khu vực số 04,Cụm Miền núi,Trung tâm y tế,Vitamin A,viên,1133,165,-4.9,47.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS04,Trung tâm y tế khu vực số 04,Cụm Miền núi,Trung tâm y tế,Salbutamol xịt,bình,180,34,5.6,37.0,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS04,Trung tâm y tế khu vực số 04,Cụm Miền núi,Trung tâm y tế,"Natri clorid 0,9%",chai,1160,195,-6.3,41.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS05,Trung tâm y tế khu vực số 05,Cụm Bắc,Trung tâm y tế,Paracetamol 500mg,viên,10922,1866,-10.8,41.0,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS05,Trung tâm y tế khu vực số 05,Cụm Bắc,Trung tâm y tế,Dung dịch Ringer lactat 500ml,chai,654,141,14.1,32.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS05,Trung tâm y tế khu vực số 05,Cụm Bắc,Trung tâm y tế,Amoxicillin 500mg,viên,6480,1061,0.7,42.7,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS05,Trung tâm y tế khu vực số 05,Cụm Bắc,Trung tâm y tế,Oresol,gói,1878,297,-6.6,44.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS05,Trung tâm y tế khu vực số 05,Cụm Bắc,Trung tâm y tế,Insulin,lọ,162,25,-2.1,43.7,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS05,Trung tâm y tế khu vực số 05,Cụm Bắc,Trung tâm y tế,Metformin 500mg,viên,8384,1530,0.7,38.3,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS05,Trung tâm y tế khu vực số 05,Cụm Bắc,Trung tâm y tế,Amlodipin 5mg,viên,8053,1495,-0.5,37.7,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS05,Trung tâm y tế khu vực số 05,Cụm Bắc,Trung tâm y tế,Vitamin A,viên,944,183,5.0,36.0,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS05,Trung tâm y tế khu vực số 05,Cụm Bắc,Trung tâm y tế,Salbutamol xịt,bình,198,29,-13.2,46.6,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS05,Trung tâm y tế khu vực số 05,Cụm Bắc,Trung tâm y tế,"Natri clorid 0,9%",chai,1020,206,1.1,34.6,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS06,Trung tâm y tế khu vực số 06,Cụm Nam,Trung tâm y tế,Paracetamol 500mg,viên,0,594,-78.7,0.0,Đỏ (dưới 14 ngày),1,0,0,0,2376,Thuốc dùng nhiều khi có sốt xuất huyết,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS06,Trung tâm y tế khu vực số 06,Cụm Nam,Trung tâm y tế,Dung dịch Ringer lactat 500ml,chai,0,39,-77.7,0.0,Đỏ (dưới 14 ngày),1,0,0,0,156,Thuốc dùng nhiều khi có sốt xuất huyết,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS06,Trung tâm y tế khu vực số 06,Cụm Nam,Trung tâm y tế,Amoxicillin 500mg,viên,0,520,-53.3,0.0,Đỏ (dưới 14 ngày),1,0,0,0,2080,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS06,Trung tâm y tế khu vực số 06,Cụm Nam,Trung tâm y tế,Oresol,gói,0,99,-78.8,0.0,Đỏ (dưới 14 ngày),1,0,0,0,396,Thuốc dùng nhiều khi có sốt xuất huyết,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS06,Trung tâm y tế khu vực số 06,Cụm Nam,Trung tâm y tế,Insulin,lọ,0,14,-43.7,0.0,Đỏ (dưới 14 ngày),1,0,0,0,56,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS06,Trung tâm y tế khu vực số 06,Cụm Nam,Trung tâm y tế,Metformin 500mg,viên,0,623,-60.8,0.0,Đỏ (dưới 14 ngày),1,0,0,0,2492,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS06,Trung tâm y tế khu vực số 06,Cụm Nam,Trung tâm y tế,Amlodipin 5mg,viên,0,903,-36.3,0.0,Đỏ (dưới 14 ngày),1,0,0,0,3612,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS06,Trung tâm y tế khu vực số 06,Cụm Nam,Trung tâm y tế,Vitamin A,viên,0,88,-52.8,0.0,Đỏ (dưới 14 ngày),1,0,0,0,352,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS06,Trung tâm y tế khu vực số 06,Cụm Nam,Trung tâm y tế,Salbutamol xịt,bình,0,19,-40.3,0.0,Đỏ (dưới 14 ngày),1,0,0,0,76,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS06,Trung tâm y tế khu vực số 06,Cụm Nam,Trung tâm y tế,"Natri clorid 0,9%",chai,0,100,-48.0,0.0,Đỏ (dưới 14 ngày),1,0,0,0,400,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS07,Trung tâm y tế khu vực số 07,Cụm Ven biển,Trung tâm y tế,Paracetamol 500mg,viên,0,3887,24.3,0.0,Đỏ (dưới 14 ngày),1,0,0,0,15548,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS07,Trung tâm y tế khu vực số 07,Cụm Ven biển,Trung tâm y tế,Dung dịch Ringer lactat 500ml,chai,0,255,37.1,0.0,Đỏ (dưới 14 ngày),1,0,0,0,1020,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS07,Trung tâm y tế khu vực số 07,Cụm Ven biển,Trung tâm y tế,Amoxicillin 500mg,viên,5341,1169,3.7,32.0,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS07,Trung tâm y tế khu vực số 07,Cụm Ven biển,Trung tâm y tế,Oresol,gói,0,540,2.0,0.0,Đỏ (dưới 14 ngày),1,0,0,0,2160,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS07,Trung tâm y tế khu vực số 07,Cụm Ven biển,Trung tâm y tế,Insulin,lọ,166,26,-7.6,44.7,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS07,Trung tâm y tế khu vực số 07,Cụm Ven biển,Trung tâm y tế,Metformin 500mg,viên,8567,1579,4.5,38.0,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS07,Trung tâm y tế khu vực số 07,Cụm Ven biển,Trung tâm y tế,Amlodipin 5mg,viên,7365,1479,11.6,34.8,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS07,Trung tâm y tế khu vực số 07,Cụm Ven biển,Trung tâm y tế,Vitamin A,viên,1076,184,7.3,40.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS07,Trung tâm y tế khu vực số 07,Cụm Ven biển,Trung tâm y tế,Salbutamol xịt,bình,169,31,-4.6,37.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS07,Trung tâm y tế khu vực số 07,Cụm Ven biển,Trung tâm y tế,"Natri clorid 0,9%",chai,1025,212,9.2,33.7,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS08,Trung tâm y tế khu vực số 08,Cụm Miền núi,Trung tâm y tế,Paracetamol 500mg,viên,11003,1899,-7.7,40.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS08,Trung tâm y tế khu vực số 08,Cụm Miền núi,Trung tâm y tế,Dung dịch Ringer lactat 500ml,chai,949,125,-4.3,53.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS08,Trung tâm y tế khu vực số 08,Cụm Miền núi,Trung tâm y tế,Amoxicillin 500mg,viên,6151,1081,-4.0,39.8,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS08,Trung tâm y tế khu vực số 08,Cụm Miền núi,Trung tâm y tế,Oresol,gói,2037,340,2.1,41.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS08,Trung tâm y tế khu vực số 08,Cụm Miền núi,Trung tâm y tế,Insulin,lọ,129,28,5.2,32.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS08,Trung tâm y tế khu vực số 08,Cụm Miền núi,Trung tâm y tế,Metformin 500mg,viên,7890,1599,-0.9,34.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS08,Trung tâm y tế khu vực số 08,Cụm Miền núi,Trung tâm y tế,Amlodipin 5mg,viên,6721,1376,-13.6,34.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS08,Trung tâm y tế khu vực số 08,Cụm Miền núi,Trung tâm y tế,Vitamin A,viên,1098,159,-10.4,48.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS08,Trung tâm y tế khu vực số 08,Cụm Miền núi,Trung tâm y tế,Salbutamol xịt,bình,174,36,10.3,33.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS08,Trung tâm y tế khu vực số 08,Cụm Miền núi,Trung tâm y tế,"Natri clorid 0,9%",chai,1262,191,1.3,46.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS09,Trạm y tế số 09,Cụm Bắc,Trạm y tế,Paracetamol 500mg,viên,0,466,-45.0,0.0,Đỏ (dưới 14 ngày),1,0,0,0,1864,Thuốc dùng nhiều khi có sốt xuất huyết,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS09,Trạm y tế số 09,Cụm Bắc,Trạm y tế,Dung dịch Ringer lactat 500ml,chai,0,30,-49.7,0.0,Đỏ (dưới 14 ngày),1,0,0,0,120,Thuốc dùng nhiều khi có sốt xuất huyết,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS09,Trạm y tế số 09,Cụm Bắc,Trạm y tế,Amoxicillin 500mg,viên,0,253,-51.6,0.0,Đỏ (dưới 14 ngày),1,0,0,0,1012,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS09,Trạm y tế số 09,Cụm Bắc,Trạm y tế,Oresol,gói,0,72,-49.0,0.0,Đỏ (dưới 14 ngày),1,0,0,0,288,Thuốc dùng nhiều khi có sốt xuất huyết,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS09,Trạm y tế số 09,Cụm Bắc,Trạm y tế,Insulin,lọ,0,5,-55.5,0.0,Đỏ (dưới 14 ngày),1,0,0,0,20,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS09,Trạm y tế số 09,Cụm Bắc,Trạm y tế,Metformin 500mg,viên,0,320,-56.9,0.0,Đỏ (dưới 14 ngày),1,0,0,0,1280,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS09,Trạm y tế số 09,Cụm Bắc,Trạm y tế,Amlodipin 5mg,viên,0,413,-33.2,0.0,Đỏ (dưới 14 ngày),1,0,0,0,1652,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS09,Trạm y tế số 09,Cụm Bắc,Trạm y tế,Vitamin A,viên,0,40,-49.2,0.0,Đỏ (dưới 14 ngày),1,0,0,0,160,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS09,Trạm y tế số 09,Cụm Bắc,Trạm y tế,Salbutamol xịt,bình,0,8,-40.9,0.0,Đỏ (dưới 14 ngày),1,0,0,0,32,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS09,Trạm y tế số 09,Cụm Bắc,Trạm y tế,"Natri clorid 0,9%",chai,0,49,-44.0,0.0,Đỏ (dưới 14 ngày),1,0,0,0,196,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS10,Trạm y tế số 10,Cụm Nam,Trạm y tế,Paracetamol 500mg,viên,0,1516,17.5,0.0,Đỏ (dưới 14 ngày),1,0,0,0,6064,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS10,Trạm y tế số 10,Cụm Nam,Trạm y tế,Dung dịch Ringer lactat 500ml,chai,22,118,30.5,1.3,Đỏ (dưới 14 ngày),1,0,0,0,450,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS10,Trạm y tế số 10,Cụm Nam,Trạm y tế,Amoxicillin 500mg,viên,2432,495,7.7,34.3,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS10,Trạm y tế số 10,Cụm Nam,Trạm y tế,Oresol,gói,0,284,14.8,0.0,Đỏ (dưới 14 ngày),1,0,0,0,1136,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS10,Trạm y tế số 10,Cụm Nam,Trạm y tế,Insulin,lọ,64,10,-17.7,42.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS10,Trạm y tế số 10,Cụm Nam,Trạm y tế,Metformin 500mg,viên,3605,683,-3.7,36.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS10,Trạm y tế số 10,Cụm Nam,Trạm y tế,Amlodipin 5mg,viên,3764,660,10.4,39.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS10,Trạm y tế số 10,Cụm Nam,Trạm y tế,Vitamin A,viên,499,75,-2.4,46.0,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS10,Trạm y tế số 10,Cụm Nam,Trạm y tế,Salbutamol xịt,bình,86,15,-0.5,38.8,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS10,Trạm y tế số 10,Cụm Nam,Trạm y tế,"Natri clorid 0,9%",chai,527,83,-8.1,43.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS11,Trạm y tế số 11,Cụm Ven biển,Trạm y tế,Paracetamol 500mg,viên,0,1637,20.5,0.0,Đỏ (dưới 14 ngày),1,0,0,0,6548,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS11,Trạm y tế số 11,Cụm Ven biển,Trạm y tế,Dung dịch Ringer lactat 500ml,chai,0,104,9.2,0.0,Đỏ (dưới 14 ngày),1,0,0,0,416,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS11,Trạm y tế số 11,Cụm Ven biển,Trạm y tế,Amoxicillin 500mg,viên,2854,498,-1.2,40.0,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS11,Trạm y tế số 11,Cụm Ven biển,Trạm y tế,Oresol,gói,0,276,24.3,0.0,Đỏ (dưới 14 ngày),1,0,0,0,1104,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS11,Trạm y tế số 11,Cụm Ven biển,Trạm y tế,Insulin,lọ,69,11,-4.5,41.3,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS11,Trạm y tế số 11,Cụm Ven biển,Trạm y tế,Metformin 500mg,viên,3496,753,-0.6,32.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS11,Trạm y tế số 11,Cụm Ven biển,Trạm y tế,Amlodipin 5mg,viên,3578,632,-6.5,39.6,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS11,Trạm y tế số 11,Cụm Ven biển,Trạm y tế,Vitamin A,viên,430,83,5.3,36.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS11,Trạm y tế số 11,Cụm Ven biển,Trạm y tế,Salbutamol xịt,bình,99,14,-5.4,47.7,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS11,Trạm y tế số 11,Cụm Ven biển,Trạm y tế,"Natri clorid 0,9%",chai,406,91,-2.7,31.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS12,Trạm y tế số 12,Cụm Miền núi,Trạm y tế,Paracetamol 500mg,viên,4871,939,6.4,36.3,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS12,Trạm y tế số 12,Cụm Miền núi,Trạm y tế,Dung dịch Ringer lactat 500ml,chai,300,63,6.7,33.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS12,Trạm y tế số 12,Cụm Miền núi,Trạm y tế,Amoxicillin 500mg,viên,2708,534,3.7,35.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS12,Trạm y tế số 12,Cụm Miền núi,Trạm y tế,Oresol,gói,966,141,-6.7,47.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS12,Trạm y tế số 12,Cụm Miền núi,Trạm y tế,Insulin,lọ,51,12,-2.1,29.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS12,Trạm y tế số 12,Cụm Miền núi,Trạm y tế,Metformin 500mg,viên,4015,676,-9.8,41.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS12,Trạm y tế số 12,Cụm Miền núi,Trạm y tế,Amlodipin 5mg,viên,3343,638,-6.8,36.7,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS12,Trạm y tế số 12,Cụm Miền núi,Trạm y tế,Vitamin A,viên,475,80,3.5,41.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS12,Trạm y tế số 12,Cụm Miền núi,Trạm y tế,Salbutamol xịt,bình,74,15,-5.7,33.7,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS12,Trạm y tế số 12,Cụm Miền núi,Trạm y tế,"Natri clorid 0,9%",chai,546,90,-2.6,42.3,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS13,Trạm y tế số 13,Cụm Bắc,Trạm y tế,Paracetamol 500mg,viên,5353,895,0.3,41.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS13,Trạm y tế số 13,Cụm Bắc,Trạm y tế,Dung dịch Ringer lactat 500ml,chai,346,60,6.6,40.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS13,Trạm y tế số 13,Cụm Bắc,Trạm y tế,Amoxicillin 500mg,viên,2770,515,1.5,37.6,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS13,Trạm y tế số 13,Cụm Bắc,Trạm y tế,Oresol,gói,763,145,-7.4,36.7,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS13,Trạm y tế số 13,Cụm Bắc,Trạm y tế,Insulin,lọ,54,12,-2.6,30.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS13,Trạm y tế số 13,Cụm Bắc,Trạm y tế,Metformin 500mg,viên,4027,668,6.3,42.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS13,Trạm y tế số 13,Cụm Bắc,Trạm y tế,Amlodipin 5mg,viên,3551,647,3.4,38.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS13,Trạm y tế số 13,Cụm Bắc,Trạm y tế,Vitamin A,viên,528,71,-10.5,51.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS13,Trạm y tế số 13,Cụm Bắc,Trạm y tế,Salbutamol xịt,bình,78,14,-6.1,38.0,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS13,Trạm y tế số 13,Cụm Bắc,Trạm y tế,"Natri clorid 0,9%",chai,541,87,1.3,43.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS14,Trạm y tế số 14,Cụm Nam,Trạm y tế,Paracetamol 500mg,viên,0,270,-80.6,0.0,Đỏ (dưới 14 ngày),1,0,0,0,1080,Thuốc dùng nhiều khi có sốt xuất huyết,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS14,Trạm y tế số 14,Cụm Nam,Trạm y tế,Dung dịch Ringer lactat 500ml,chai,0,18,-79.8,0.0,Đỏ (dưới 14 ngày),1,0,0,0,72,Thuốc dùng nhiều khi có sốt xuất huyết,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS14,Trạm y tế số 14,Cụm Nam,Trạm y tế,Amoxicillin 500mg,viên,0,324,-30.8,0.0,Đỏ (dưới 14 ngày),1,0,0,0,1296,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS14,Trạm y tế số 14,Cụm Nam,Trạm y tế,Oresol,gói,0,45,-76.9,0.0,Đỏ (dưới 14 ngày),1,0,0,0,180,Thuốc dùng nhiều khi có sốt xuất huyết,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS14,Trạm y tế số 14,Cụm Nam,Trạm y tế,Insulin,lọ,0,5,-55.8,0.0,Đỏ (dưới 14 ngày),1,0,0,0,20,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS14,Trạm y tế số 14,Cụm Nam,Trạm y tế,Metformin 500mg,viên,0,357,-46.6,0.0,Đỏ (dưới 14 ngày),1,0,0,0,1428,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS14,Trạm y tế số 14,Cụm Nam,Trạm y tế,Amlodipin 5mg,viên,0,312,-51.3,0.0,Đỏ (dưới 14 ngày),1,0,0,0,1248,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS14,Trạm y tế số 14,Cụm Nam,Trạm y tế,Vitamin A,viên,0,39,-51.0,0.0,Đỏ (dưới 14 ngày),1,0,0,0,156,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS14,Trạm y tế số 14,Cụm Nam,Trạm y tế,Salbutamol xịt,bình,0,6,-59.2,0.0,Đỏ (dưới 14 ngày),1,0,0,0,24,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS14,Trạm y tế số 14,Cụm Nam,Trạm y tế,"Natri clorid 0,9%",chai,0,41,-58.1,0.0,Đỏ (dưới 14 ngày),1,0,0,0,164,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS15,Trạm y tế số 15,Cụm Ven biển,Trạm y tế,Paracetamol 500mg,viên,0,1840,28.1,0.0,Đỏ (dưới 14 ngày),1,0,0,0,7360,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS15,Trạm y tế số 15,Cụm Ven biển,Trạm y tế,Dung dịch Ringer lactat 500ml,chai,0,107,9.2,0.0,Đỏ (dưới 14 ngày),1,0,0,0,428,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS15,Trạm y tế số 15,Cụm Ven biển,Trạm y tế,Amoxicillin 500mg,viên,2734,476,-10.6,40.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS15,Trạm y tế số 15,Cụm Ven biển,Trạm y tế,Oresol,gói,0,255,2.1,0.0,Đỏ (dưới 14 ngày),1,0,0,0,1020,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS15,Trạm y tế số 15,Cụm Ven biển,Trạm y tế,Insulin,lọ,71,12,5.8,39.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS15,Trạm y tế số 15,Cụm Ven biển,Trạm y tế,Metformin 500mg,viên,3756,680,4.5,38.6,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS15,Trạm y tế số 15,Cụm Ven biển,Trạm y tế,Amlodipin 5mg,viên,3625,621,-7.9,40.8,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS15,Trạm y tế số 15,Cụm Ven biển,Trạm y tế,Vitamin A,viên,491,78,2.4,43.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS15,Trạm y tế số 15,Cụm Ven biển,Trạm y tế,Salbutamol xịt,bình,94,13,-5.4,48.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS15,Trạm y tế số 15,Cụm Ven biển,Trạm y tế,"Natri clorid 0,9%",chai,540,84,-8.6,44.7,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS16,Trạm y tế số 16,Cụm Miền núi,Trạm y tế,Paracetamol 500mg,viên,5520,943,3.1,40.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS16,Trạm y tế số 16,Cụm Miền núi,Trạm y tế,Dung dịch Ringer lactat 500ml,chai,366,60,11.0,42.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS16,Trạm y tế số 16,Cụm Miền núi,Trạm y tế,Amoxicillin 500mg,viên,3326,488,4.0,47.7,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS16,Trạm y tế số 16,Cụm Miền núi,Trạm y tế,Oresol,gói,977,141,-9.5,48.3,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS16,Trạm y tế số 16,Cụm Miền núi,Trạm y tế,Insulin,lọ,68,12,13.8,37.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS16,Trạm y tế số 16,Cụm Miền núi,Trạm y tế,Metformin 500mg,viên,3533,720,-1.7,34.3,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS16,Trạm y tế số 16,Cụm Miền núi,Trạm y tế,Amlodipin 5mg,viên,3765,709,0.7,37.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS16,Trạm y tế số 16,Cụm Miền núi,Trạm y tế,Vitamin A,viên,427,78,-8.4,38.3,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS16,Trạm y tế số 16,Cụm Miền núi,Trạm y tế,Salbutamol xịt,bình,78,14,-5.7,38.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS16,Trạm y tế số 16,Cụm Miền núi,Trạm y tế,"Natri clorid 0,9%",chai,475,92,4.2,36.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS17,Trạm y tế số 17,Cụm Bắc,Trạm y tế,Paracetamol 500mg,viên,5264,829,-7.3,44.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS17,Trạm y tế số 17,Cụm Bắc,Trạm y tế,Dung dịch Ringer lactat 500ml,chai,314,59,-2.5,37.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS17,Trạm y tế số 17,Cụm Bắc,Trạm y tế,Amoxicillin 500mg,viên,2547,475,1.4,37.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS17,Trạm y tế số 17,Cụm Bắc,Trạm y tế,Oresol,gói,875,145,-3.9,42.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS17,Trạm y tế số 17,Cụm Bắc,Trạm y tế,Insulin,lọ,67,11,-2.4,40.7,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS17,Trạm y tế số 17,Cụm Bắc,Trạm y tế,Metformin 500mg,viên,4076,729,3.0,39.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS17,Trạm y tế số 17,Cụm Bắc,Trạm y tế,Amlodipin 5mg,viên,3398,696,8.8,34.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS17,Trạm y tế số 17,Cụm Bắc,Trạm y tế,Vitamin A,viên,401,80,0.3,34.7,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS17,Trạm y tế số 17,Cụm Bắc,Trạm y tế,Salbutamol xịt,bình,83,15,7.3,37.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS17,Trạm y tế số 17,Cụm Bắc,Trạm y tế,"Natri clorid 0,9%",chai,555,89,-4.4,43.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS18,Trạm y tế số 18,Cụm Nam,Trạm y tế,Paracetamol 500mg,viên,0,1647,21.0,0.0,Đỏ (dưới 14 ngày),1,0,0,0,6588,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS18,Trạm y tế số 18,Cụm Nam,Trạm y tế,Dung dịch Ringer lactat 500ml,chai,0,128,44.3,0.0,Đỏ (dưới 14 ngày),1,0,0,0,512,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS18,Trạm y tế số 18,Cụm Nam,Trạm y tế,Amoxicillin 500mg,viên,3063,508,-1.6,42.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS18,Trạm y tế số 18,Cụm Nam,Trạm y tế,Oresol,gói,0,278,18.7,0.0,Đỏ (dưới 14 ngày),1,0,0,0,1112,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS18,Trạm y tế số 18,Cụm Nam,Trạm y tế,Insulin,lọ,65,12,10.9,36.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS18,Trạm y tế số 18,Cụm Nam,Trạm y tế,Metformin 500mg,viên,3504,743,6.3,33.0,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS18,Trạm y tế số 18,Cụm Nam,Trạm y tế,Amlodipin 5mg,viên,3845,633,-4.4,42.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS18,Trạm y tế số 18,Cụm Nam,Trạm y tế,Vitamin A,viên,404,84,5.6,33.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS18,Trạm y tế số 18,Cụm Nam,Trạm y tế,Salbutamol xịt,bình,75,14,-1.5,35.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS18,Trạm y tế số 18,Cụm Nam,Trạm y tế,"Natri clorid 0,9%",chai,531,81,-4.7,45.8,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS19,Trạm y tế số 19,Cụm Ven biển,Trạm y tế,Paracetamol 500mg,viên,0,270,-76.1,0.0,Đỏ (dưới 14 ngày),1,0,0,0,1080,Thuốc dùng nhiều khi có sốt xuất huyết,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS19,Trạm y tế số 19,Cụm Ven biển,Trạm y tế,Dung dịch Ringer lactat 500ml,chai,0,18,-76.4,0.0,Đỏ (dưới 14 ngày),1,0,0,0,72,Thuốc dùng nhiều khi có sốt xuất huyết,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS19,Trạm y tế số 19,Cụm Ven biển,Trạm y tế,Amoxicillin 500mg,viên,0,278,-43.6,0.0,Đỏ (dưới 14 ngày),1,0,0,0,1112,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS19,Trạm y tế số 19,Cụm Ven biển,Trạm y tế,Oresol,gói,0,45,-79.3,0.0,Đỏ (dưới 14 ngày),1,0,0,0,180,Thuốc dùng nhiều khi có sốt xuất huyết,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS19,Trạm y tế số 19,Cụm Ven biển,Trạm y tế,Insulin,lọ,0,7,-37.9,0.0,Đỏ (dưới 14 ngày),1,0,0,0,28,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS19,Trạm y tế số 19,Cụm Ven biển,Trạm y tế,Metformin 500mg,viên,0,339,-52.9,0.0,Đỏ (dưới 14 ngày),1,0,0,0,1356,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS19,Trạm y tế số 19,Cụm Ven biển,Trạm y tế,Amlodipin 5mg,viên,0,315,-49.8,0.0,Đỏ (dưới 14 ngày),1,0,0,0,1260,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS19,Trạm y tế số 19,Cụm Ven biển,Trạm y tế,Vitamin A,viên,0,33,-58.4,0.0,Đỏ (dưới 14 ngày),1,0,0,0,132,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS19,Trạm y tế số 19,Cụm Ven biển,Trạm y tế,Salbutamol xịt,bình,0,7,-54.7,0.0,Đỏ (dưới 14 ngày),1,0,0,0,28,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS19,Trạm y tế số 19,Cụm Ven biển,Trạm y tế,"Natri clorid 0,9%",chai,0,57,-33.9,0.0,Đỏ (dưới 14 ngày),1,0,0,0,228,Thuốc khác,"Gói thầu chậm (CS06, CS09, CS14, CS19)"
+CS20,Trạm y tế số 20,Cụm Miền núi,Trạm y tế,Paracetamol 500mg,viên,4745,933,0.3,35.6,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS20,Trạm y tế số 20,Cụm Miền núi,Trạm y tế,Dung dịch Ringer lactat 500ml,chai,347,56,-10.4,42.6,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS20,Trạm y tế số 20,Cụm Miền núi,Trạm y tế,Amoxicillin 500mg,viên,2459,485,-0.7,35.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS20,Trạm y tế số 20,Cụm Miền núi,Trạm y tế,Oresol,gói,773,154,-3.6,35.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS20,Trạm y tế số 20,Cụm Miền núi,Trạm y tế,Insulin,lọ,54,12,1.6,30.8,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS20,Trạm y tế số 20,Cụm Miền núi,Trạm y tế,Metformin 500mg,viên,3825,661,-4.8,40.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS20,Trạm y tế số 20,Cụm Miền núi,Trạm y tế,Amlodipin 5mg,viên,4090,637,3.5,44.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS20,Trạm y tế số 20,Cụm Miền núi,Trạm y tế,Vitamin A,viên,471,79,11.0,41.6,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS20,Trạm y tế số 20,Cụm Miền núi,Trạm y tế,Salbutamol xịt,bình,75,15,3.4,34.0,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS20,Trạm y tế số 20,Cụm Miền núi,Trạm y tế,"Natri clorid 0,9%",chai,572,89,-1.2,44.7,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS21,Trạm y tế số 21,Cụm Bắc,Trạm y tế,Paracetamol 500mg,viên,5368,925,7.8,40.6,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS21,Trạm y tế số 21,Cụm Bắc,Trạm y tế,Dung dịch Ringer lactat 500ml,chai,306,61,7.1,35.0,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS21,Trạm y tế số 21,Cụm Bắc,Trạm y tế,Amoxicillin 500mg,viên,2785,501,4.4,38.8,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS21,Trạm y tế số 21,Cụm Bắc,Trạm y tế,Oresol,gói,827,163,8.7,35.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS21,Trạm y tế số 21,Cụm Bắc,Trạm y tế,Insulin,lọ,69,11,-2.6,41.3,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS21,Trạm y tế số 21,Cụm Bắc,Trạm y tế,Metformin 500mg,viên,3751,685,-4.1,38.3,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS21,Trạm y tế số 21,Cụm Bắc,Trạm y tế,Amlodipin 5mg,viên,3704,599,-7.4,43.3,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS21,Trạm y tế số 21,Cụm Bắc,Trạm y tế,Vitamin A,viên,426,83,5.0,35.6,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS21,Trạm y tế số 21,Cụm Bắc,Trạm y tế,Salbutamol xịt,bình,89,14,-6.6,43.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS21,Trạm y tế số 21,Cụm Bắc,Trạm y tế,"Natri clorid 0,9%",chai,451,86,1.2,36.6,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS22,Trạm y tế số 22,Cụm Nam,Trạm y tế,Paracetamol 500mg,viên,0,1831,45.3,0.0,Đỏ (dưới 14 ngày),1,0,0,0,7324,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS22,Trạm y tế số 22,Cụm Nam,Trạm y tế,Dung dịch Ringer lactat 500ml,chai,1293,126,30.4,71.8,Xanh (từ 28 ngày),0,0,1,753,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS22,Trạm y tế số 22,Cụm Nam,Trạm y tế,Amoxicillin 500mg,viên,2645,529,0.3,34.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS22,Trạm y tế số 22,Cụm Nam,Trạm y tế,Oresol,gói,0,301,32.7,0.0,Đỏ (dưới 14 ngày),1,0,0,0,1204,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS22,Trạm y tế số 22,Cụm Nam,Trạm y tế,Insulin,lọ,68,12,3.2,38.3,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS22,Trạm y tế số 22,Cụm Nam,Trạm y tế,Metformin 500mg,viên,3892,649,-8.7,42.0,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS22,Trạm y tế số 22,Cụm Nam,Trạm y tế,Amlodipin 5mg,viên,3773,653,-0.4,40.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS22,Trạm y tế số 22,Cụm Nam,Trạm y tế,Vitamin A,viên,504,74,-13.7,47.3,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS22,Trạm y tế số 22,Cụm Nam,Trạm y tế,Salbutamol xịt,bình,88,14,-6.2,43.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS22,Trạm y tế số 22,Cụm Nam,Trạm y tế,"Natri clorid 0,9%",chai,618,89,2.4,48.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS23,Trạm y tế số 23,Cụm Ven biển,Trạm y tế,Paracetamol 500mg,viên,117,1979,58.9,0.4,Đỏ (dưới 14 ngày),1,0,0,0,7799,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS23,Trạm y tế số 23,Cụm Ven biển,Trạm y tế,Dung dịch Ringer lactat 500ml,chai,0,112,22.3,0.0,Đỏ (dưới 14 ngày),1,0,0,0,448,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS23,Trạm y tế số 23,Cụm Ven biển,Trạm y tế,Amoxicillin 500mg,viên,2645,484,-6.7,38.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS23,Trạm y tế số 23,Cụm Ven biển,Trạm y tế,Oresol,gói,0,276,25.9,0.0,Đỏ (dưới 14 ngày),1,0,0,0,1104,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS23,Trạm y tế số 23,Cụm Ven biển,Trạm y tế,Insulin,lọ,-37,11,-5.5,-23.0,Lỗi số liệu (tồn âm),0,1,0,0,0,Thuốc khác,Nhập bình thường
+CS23,Trạm y tế số 23,Cụm Ven biển,Trạm y tế,Metformin 500mg,viên,3756,685,2.2,38.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS23,Trạm y tế số 23,Cụm Ven biển,Trạm y tế,Amlodipin 5mg,viên,3394,690,13.7,34.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS23,Trạm y tế số 23,Cụm Ven biển,Trạm y tế,Vitamin A,viên,458,73,-6.5,43.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS23,Trạm y tế số 23,Cụm Ven biển,Trạm y tế,Salbutamol xịt,bình,75,14,-2.3,36.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS23,Trạm y tế số 23,Cụm Ven biển,Trạm y tế,"Natri clorid 0,9%",chai,387,84,-14.2,32.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS24,Trạm y tế số 24,Cụm Miền núi,Trạm y tế,Paracetamol 500mg,viên,4882,911,1.6,37.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS24,Trạm y tế số 24,Cụm Miền núi,Trạm y tế,Dung dịch Ringer lactat 500ml,chai,348,60,5.3,40.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS24,Trạm y tế số 24,Cụm Miền núi,Trạm y tế,Amoxicillin 500mg,viên,3093,512,9.7,42.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS24,Trạm y tế số 24,Cụm Miền núi,Trạm y tế,Oresol,gói,871,142,-9.3,42.7,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS24,Trạm y tế số 24,Cụm Miền núi,Trạm y tế,Insulin,lọ,56,12,10.5,31.0,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS24,Trạm y tế số 24,Cụm Miền núi,Trạm y tế,Metformin 500mg,viên,3511,717,3.8,34.3,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS24,Trạm y tế số 24,Cụm Miền núi,Trạm y tế,Amlodipin 5mg,viên,3721,636,-1.7,40.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS24,Trạm y tế số 24,Cụm Miền núi,Trạm y tế,Vitamin A,viên,393,83,-2.2,32.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS24,Trạm y tế số 24,Cụm Miền núi,Trạm y tế,Salbutamol xịt,bình,95,14,4.6,45.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS24,Trạm y tế số 24,Cụm Miền núi,Trạm y tế,"Natri clorid 0,9%",chai,562,84,-3.4,46.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS25,Trạm y tế số 25,Cụm Bắc,Trạm y tế,Paracetamol 500mg,viên,4872,923,-3.7,36.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS25,Trạm y tế số 25,Cụm Bắc,Trạm y tế,Dung dịch Ringer lactat 500ml,chai,359,57,-3.9,43.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS25,Trạm y tế số 25,Cụm Bắc,Trạm y tế,Amoxicillin 500mg,viên,2575,539,7.7,33.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS25,Trạm y tế số 25,Cụm Bắc,Trạm y tế,Oresol,gói,859,152,1.4,39.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS25,Trạm y tế số 25,Cụm Bắc,Trạm y tế,Insulin,lọ,62,11,-3.8,36.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS25,Trạm y tế số 25,Cụm Bắc,Trạm y tế,Metformin 500mg,viên,3548,732,-2.4,33.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS25,Trạm y tế số 25,Cụm Bắc,Trạm y tế,Amlodipin 5mg,viên,3274,669,0.8,34.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS25,Trạm y tế số 25,Cụm Bắc,Trạm y tế,Vitamin A,viên,457,79,-7.1,40.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS25,Trạm y tế số 25,Cụm Bắc,Trạm y tế,Salbutamol xịt,bình,88,15,6.8,39.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS25,Trạm y tế số 25,Cụm Bắc,Trạm y tế,"Natri clorid 0,9%",chai,447,91,4.4,34.3,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS26,Trạm y tế số 26,Cụm Nam,Trạm y tế,Paracetamol 500mg,viên,0,1702,24.9,0.0,Đỏ (dưới 14 ngày),1,0,0,0,6808,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS26,Trạm y tế số 26,Cụm Nam,Trạm y tế,Dung dịch Ringer lactat 500ml,chai,0,99,6.5,0.0,Đỏ (dưới 14 ngày),1,0,0,0,396,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS26,Trạm y tế số 26,Cụm Nam,Trạm y tế,Amoxicillin 500mg,viên,2772,502,-2.1,38.6,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS26,Trạm y tế số 26,Cụm Nam,Trạm y tế,Oresol,gói,0,253,4.6,0.0,Đỏ (dưới 14 ngày),1,0,0,0,1012,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS26,Trạm y tế số 26,Cụm Nam,Trạm y tế,Insulin,lọ,72,11,-5.6,45.6,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS26,Trạm y tế số 26,Cụm Nam,Trạm y tế,Metformin 500mg,viên,4652,659,0.3,49.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS26,Trạm y tế số 26,Cụm Nam,Trạm y tế,Amlodipin 5mg,viên,3366,626,-6.2,37.6,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS26,Trạm y tế số 26,Cụm Nam,Trạm y tế,Vitamin A,viên,430,82,6.5,36.6,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS26,Trạm y tế số 26,Cụm Nam,Trạm y tế,Salbutamol xịt,bình,84,14,-3.1,39.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS26,Trạm y tế số 26,Cụm Nam,Trạm y tế,"Natri clorid 0,9%",chai,455,84,-8.4,37.7,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS27,Trạm y tế số 27,Cụm Ven biển,Trạm y tế,Paracetamol 500mg,viên,0,1834,45.9,0.0,Đỏ (dưới 14 ngày),1,0,0,0,7336,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS27,Trạm y tế số 27,Cụm Ven biển,Trạm y tế,Dung dịch Ringer lactat 500ml,chai,0,117,30.6,0.0,Đỏ (dưới 14 ngày),1,0,0,0,468,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS27,Trạm y tế số 27,Cụm Ven biển,Trạm y tế,Amoxicillin 500mg,viên,2625,518,-5.8,35.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS27,Trạm y tế số 27,Cụm Ven biển,Trạm y tế,Oresol,gói,0,289,34.4,0.0,Đỏ (dưới 14 ngày),1,0,0,0,1156,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS27,Trạm y tế số 27,Cụm Ven biển,Trạm y tế,Insulin,lọ,59,12,10.0,33.0,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS27,Trạm y tế số 27,Cụm Ven biển,Trạm y tế,Metformin 500mg,viên,4036,667,-2.7,42.3,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS27,Trạm y tế số 27,Cụm Ven biển,Trạm y tế,Amlodipin 5mg,viên,3350,667,7.3,35.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS27,Trạm y tế số 27,Cụm Ven biển,Trạm y tế,Vitamin A,viên,435,81,-4.5,37.6,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS27,Trạm y tế số 27,Cụm Ven biển,Trạm y tế,Salbutamol xịt,bình,77,14,-8.5,37.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS27,Trạm y tế số 27,Cụm Ven biển,Trạm y tế,"Natri clorid 0,9%",chai,496,87,5.4,39.6,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS28,Trạm y tế số 28,Cụm Miền núi,Trạm y tế,Paracetamol 500mg,viên,5272,844,-5.1,43.7,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS28,Trạm y tế số 28,Cụm Miền núi,Trạm y tế,Dung dịch Ringer lactat 500ml,chai,361,57,-6.7,44.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS28,Trạm y tế số 28,Cụm Miền núi,Trạm y tế,Amoxicillin 500mg,viên,3101,522,4.4,41.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS28,Trạm y tế số 28,Cụm Miền núi,Trạm y tế,Oresol,gói,883,136,-12.3,45.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS28,Trạm y tế số 28,Cụm Miền núi,Trạm y tế,Insulin,lọ,64,12,4.2,34.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS28,Trạm y tế số 28,Cụm Miền núi,Trạm y tế,Metformin 500mg,viên,3649,703,6.0,36.3,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS28,Trạm y tế số 28,Cụm Miền núi,Trạm y tế,Amlodipin 5mg,viên,4333,626,-8.2,48.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS28,Trạm y tế số 28,Cụm Miền núi,Trạm y tế,Vitamin A,viên,419,79,0.8,37.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS28,Trạm y tế số 28,Cụm Miền núi,Trạm y tế,Salbutamol xịt,bình,74,15,-2.8,34.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS28,Trạm y tế số 28,Cụm Miền núi,Trạm y tế,"Natri clorid 0,9%",chai,548,81,-7.6,46.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS29,Trạm y tế số 29,Cụm Bắc,Trạm y tế,Paracetamol 500mg,viên,4686,917,-1.8,35.7,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS29,Trạm y tế số 29,Cụm Bắc,Trạm y tế,Dung dịch Ringer lactat 500ml,chai,308,64,6.3,33.2,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS29,Trạm y tế số 29,Cụm Bắc,Trạm y tế,Amoxicillin 500mg,viên,3158,508,4.6,43.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS29,Trạm y tế số 29,Cụm Bắc,Trạm y tế,Oresol,gói,850,149,-4.8,39.8,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS29,Trạm y tế số 29,Cụm Bắc,Trạm y tế,Insulin,lọ,58,12,0.4,31.7,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS29,Trạm y tế số 29,Cụm Bắc,Trạm y tế,Metformin 500mg,viên,3374,749,1.9,31.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS29,Trạm y tế số 29,Cụm Bắc,Trạm y tế,Amlodipin 5mg,viên,3536,695,10.8,35.6,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS29,Trạm y tế số 29,Cụm Bắc,Trạm y tế,Vitamin A,viên,466,78,-5.4,41.7,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS29,Trạm y tế số 29,Cụm Bắc,Trạm y tế,Salbutamol xịt,bình,92,14,-0.6,45.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS29,Trạm y tế số 29,Cụm Bắc,Trạm y tế,"Natri clorid 0,9%",chai,486,92,-1.3,36.9,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS30,Trạm y tế số 30,Cụm Nam,Trạm y tế,Paracetamol 500mg,viên,0,1571,16.8,0.0,Đỏ (dưới 14 ngày),1,0,0,0,6284,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS30,Trạm y tế số 30,Cụm Nam,Trạm y tế,Dung dịch Ringer lactat 500ml,chai,0,94,-0.2,0.0,Đỏ (dưới 14 ngày),1,0,0,0,376,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS30,Trạm y tế số 30,Cụm Nam,Trạm y tế,Amoxicillin 500mg,viên,2398,531,4.9,31.6,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS30,Trạm y tế số 30,Cụm Nam,Trạm y tế,Oresol,gói,0,234,-3.8,0.0,Đỏ (dưới 14 ngày),1,0,0,0,936,Thuốc dùng nhiều khi có sốt xuất huyết,Nhập bình thường
+CS30,Trạm y tế số 30,Cụm Nam,Trạm y tế,Insulin,lọ,63,12,7.3,34.3,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS30,Trạm y tế số 30,Cụm Nam,Trạm y tế,Metformin 500mg,viên,4359,624,-10.7,48.8,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS30,Trạm y tế số 30,Cụm Nam,Trạm y tế,Amlodipin 5mg,viên,3639,620,-1.0,41.1,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS30,Trạm y tế số 30,Cụm Nam,Trạm y tế,Vitamin A,viên,507,78,2.3,45.4,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS30,Trạm y tế số 30,Cụm Nam,Trạm y tế,Salbutamol xịt,bình,81,15,3.2,37.6,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường
+CS30,Trạm y tế số 30,Cụm Nam,Trạm y tế,"Natri clorid 0,9%",chai,455,92,4.2,34.5,Xanh (từ 28 ngày),0,0,0,0,0,Thuốc khác,Nhập bình thường

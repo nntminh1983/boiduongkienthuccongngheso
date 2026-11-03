@@ -1,0 +1,421 @@
+﻿ma_dn,nganh,quy_mo,nhom,diem_ho_so,vung_diem,duoc_ho_tro,doanh_thu_2024_ty,tang_doanh_thu_2025_pct,duoc_ho_tro_nhan
+DN001,Dệt may,Vừa,Đăng ký nhưng không được chọn,37.0,Xa ngưỡng,0,15.73,-5.9,Không được hỗ trợ
+DN002,Thương mại – dịch vụ,Siêu nhỏ,Đăng ký nhưng không được chọn,52.0,Xa ngưỡng,0,6.07,1.5,Không được hỗ trợ
+DN003,Cơ khí,Siêu nhỏ,Được hỗ trợ,75.0,Xa ngưỡng,1,4.78,24.6,Được hỗ trợ
+DN004,Công nghệ thông tin,Vừa,Được hỗ trợ,72.0,Gần ngưỡng chọn (điểm 62–74),1,16.81,14.3,Được hỗ trợ
+DN005,Công nghệ thông tin,Nhỏ,Đăng ký nhưng không được chọn,49.0,Xa ngưỡng,0,11.32,-1.7,Không được hỗ trợ
+DN006,Chế biến nông sản,Siêu nhỏ,Được hỗ trợ,99.0,Xa ngưỡng,1,1.61,29.8,Được hỗ trợ
+DN007,Cơ khí,Siêu nhỏ,Đăng ký nhưng không được chọn,64.0,Gần ngưỡng chọn (điểm 62–74),0,7.63,5.2,Không được hỗ trợ
+DN008,Chế biến nông sản,Siêu nhỏ,Đăng ký nhưng không được chọn,62.0,Gần ngưỡng chọn (điểm 62–74),0,10.96,17.8,Không được hỗ trợ
+DN009,Thương mại – dịch vụ,Nhỏ,Đăng ký nhưng không được chọn,44.0,Xa ngưỡng,0,13.15,-1.8,Không được hỗ trợ
+DN010,Công nghệ thông tin,Siêu nhỏ,Được hỗ trợ,72.0,Gần ngưỡng chọn (điểm 62–74),1,2.99,16.2,Được hỗ trợ
+DN011,Công nghệ thông tin,Vừa,Đăng ký nhưng không được chọn,56.0,Xa ngưỡng,0,18.78,11.8,Không được hỗ trợ
+DN012,Thương mại – dịch vụ,Nhỏ,Được hỗ trợ,75.0,Xa ngưỡng,1,6.18,6.4,Được hỗ trợ
+DN013,Cơ khí,Vừa,Được hỗ trợ,89.0,Xa ngưỡng,1,18.46,16.9,Được hỗ trợ
+DN014,Cơ khí,Siêu nhỏ,Được hỗ trợ,84.0,Xa ngưỡng,1,7.9,18.3,Được hỗ trợ
+DN015,Dệt may,Nhỏ,Được hỗ trợ,74.0,Gần ngưỡng chọn (điểm 62–74),1,8.72,16.0,Được hỗ trợ
+DN016,Thương mại – dịch vụ,Siêu nhỏ,Được hỗ trợ,73.0,Gần ngưỡng chọn (điểm 62–74),1,3.33,18.2,Được hỗ trợ
+DN017,Chế biến nông sản,Siêu nhỏ,Được hỗ trợ,68.0,Gần ngưỡng chọn (điểm 62–74),1,3.66,5.6,Được hỗ trợ
+DN018,Dệt may,Nhỏ,Được hỗ trợ,87.0,Xa ngưỡng,1,17.36,21.5,Được hỗ trợ
+DN019,Thương mại – dịch vụ,Nhỏ,Được hỗ trợ,79.0,Xa ngưỡng,1,4.38,8.5,Được hỗ trợ
+DN020,Chế biến nông sản,Siêu nhỏ,Được hỗ trợ,82.0,Xa ngưỡng,1,6.59,14.3,Được hỗ trợ
+DN021,Dệt may,Nhỏ,Được hỗ trợ,69.0,Gần ngưỡng chọn (điểm 62–74),1,20.89,13.0,Được hỗ trợ
+DN022,Thương mại – dịch vụ,Nhỏ,Đăng ký nhưng không được chọn,61.0,Xa ngưỡng,0,11.2,2.9,Không được hỗ trợ
+DN023,Công nghệ thông tin,Vừa,Đăng ký nhưng không được chọn,57.0,Xa ngưỡng,0,12.5,0.5,Không được hỗ trợ
+DN024,Chế biến nông sản,Nhỏ,Được hỗ trợ,69.0,Gần ngưỡng chọn (điểm 62–74),1,8.07,13.7,Được hỗ trợ
+DN025,Dệt may,Nhỏ,Được hỗ trợ,85.0,Xa ngưỡng,1,27.59,23.9,Được hỗ trợ
+DN026,Cơ khí,Siêu nhỏ,Được hỗ trợ,74.0,Gần ngưỡng chọn (điểm 62–74),1,3.45,18.4,Được hỗ trợ
+DN027,Chế biến nông sản,Nhỏ,Được hỗ trợ,85.0,Xa ngưỡng,1,2.46,22.4,Được hỗ trợ
+DN028,Thương mại – dịch vụ,Nhỏ,Được hỗ trợ,74.0,Gần ngưỡng chọn (điểm 62–74),1,7.62,13.9,Được hỗ trợ
+DN029,Cơ khí,Siêu nhỏ,Đăng ký nhưng không được chọn,55.0,Xa ngưỡng,0,5.84,0.2,Không được hỗ trợ
+DN030,Dệt may,Nhỏ,Được hỗ trợ,76.0,Xa ngưỡng,1,13.09,11.7,Được hỗ trợ
+DN031,Dệt may,Siêu nhỏ,Được hỗ trợ,69.0,Gần ngưỡng chọn (điểm 62–74),1,4.4,10.3,Được hỗ trợ
+DN032,Công nghệ thông tin,Siêu nhỏ,Được hỗ trợ,78.0,Xa ngưỡng,1,2.17,11.1,Được hỗ trợ
+DN033,Thương mại – dịch vụ,Nhỏ,Được hỗ trợ,91.0,Xa ngưỡng,1,10.15,17.8,Được hỗ trợ
+DN034,Chế biến nông sản,Siêu nhỏ,Đăng ký nhưng không được chọn,65.0,Gần ngưỡng chọn (điểm 62–74),0,6.87,7.2,Không được hỗ trợ
+DN035,Chế biến nông sản,Nhỏ,Được hỗ trợ,89.0,Xa ngưỡng,1,48.8,18.5,Được hỗ trợ
+DN036,Thương mại – dịch vụ,Siêu nhỏ,Được hỗ trợ,93.0,Xa ngưỡng,1,8.22,31.4,Được hỗ trợ
+DN037,Cơ khí,Nhỏ,Đăng ký nhưng không được chọn,56.0,Xa ngưỡng,0,12.94,8.5,Không được hỗ trợ
+DN038,Thương mại – dịch vụ,Siêu nhỏ,Đăng ký nhưng không được chọn,54.0,Xa ngưỡng,0,5.96,7.6,Không được hỗ trợ
+DN039,Công nghệ thông tin,Siêu nhỏ,Được hỗ trợ,80.0,Xa ngưỡng,1,2.24,23.9,Được hỗ trợ
+DN040,Dệt may,Nhỏ,Được hỗ trợ,76.0,Xa ngưỡng,1,12.56,18.3,Được hỗ trợ
+DN041,Cơ khí,Siêu nhỏ,Được hỗ trợ,70.0,Gần ngưỡng chọn (điểm 62–74),1,3.45,15.0,Được hỗ trợ
+DN042,Dệt may,Nhỏ,Đăng ký nhưng không được chọn,57.0,Xa ngưỡng,0,10.99,-3.8,Không được hỗ trợ
+DN043,Dệt may,Vừa,Được hỗ trợ,72.0,Gần ngưỡng chọn (điểm 62–74),1,8.87,20.5,Được hỗ trợ
+DN044,Chế biến nông sản,Nhỏ,Đăng ký nhưng không được chọn,53.0,Xa ngưỡng,0,6.7,-1.2,Không được hỗ trợ
+DN045,Thương mại – dịch vụ,Nhỏ,Đăng ký nhưng không được chọn,56.0,Xa ngưỡng,0,5.52,2.5,Không được hỗ trợ
+DN046,Cơ khí,Nhỏ,Đăng ký nhưng không được chọn,59.0,Xa ngưỡng,0,7.85,0.7,Không được hỗ trợ
+DN047,Thương mại – dịch vụ,Siêu nhỏ,Được hỗ trợ,81.0,Xa ngưỡng,1,9.14,20.6,Được hỗ trợ
+DN048,Dệt may,Vừa,Đăng ký nhưng không được chọn,65.0,Gần ngưỡng chọn (điểm 62–74),0,25.13,4.4,Không được hỗ trợ
+DN049,Thương mại – dịch vụ,Siêu nhỏ,Được hỗ trợ,75.0,Xa ngưỡng,1,2.86,6.4,Được hỗ trợ
+DN050,Dệt may,Siêu nhỏ,Được hỗ trợ,83.0,Xa ngưỡng,1,4.86,24.2,Được hỗ trợ
+DN051,Dệt may,Vừa,Đăng ký nhưng không được chọn,66.0,Gần ngưỡng chọn (điểm 62–74),0,28.24,11.9,Không được hỗ trợ
+DN052,Công nghệ thông tin,Siêu nhỏ,Được hỗ trợ,70.0,Gần ngưỡng chọn (điểm 62–74),1,2.64,13.6,Được hỗ trợ
+DN053,Công nghệ thông tin,Nhỏ,Được hỗ trợ,72.0,Gần ngưỡng chọn (điểm 62–74),1,20.58,11.1,Được hỗ trợ
+DN054,Thương mại – dịch vụ,Vừa,Được hỗ trợ,94.0,Xa ngưỡng,1,17.85,21.6,Được hỗ trợ
+DN055,Cơ khí,Siêu nhỏ,Được hỗ trợ,68.0,Gần ngưỡng chọn (điểm 62–74),1,4.42,8.9,Được hỗ trợ
+DN056,Cơ khí,Siêu nhỏ,Đăng ký nhưng không được chọn,60.0,Xa ngưỡng,0,4.57,-2.3,Không được hỗ trợ
+DN057,Công nghệ thông tin,Nhỏ,Đăng ký nhưng không được chọn,66.0,Gần ngưỡng chọn (điểm 62–74),0,9.05,8.6,Không được hỗ trợ
+DN058,Dệt may,Siêu nhỏ,Được hỗ trợ,73.0,Gần ngưỡng chọn (điểm 62–74),1,9.69,20.0,Được hỗ trợ
+DN059,Thương mại – dịch vụ,Nhỏ,Được hỗ trợ,71.0,Gần ngưỡng chọn (điểm 62–74),1,8.75,8.9,Được hỗ trợ
+DN060,Thương mại – dịch vụ,Siêu nhỏ,Được hỗ trợ,84.0,Xa ngưỡng,1,12.72,15.1,Được hỗ trợ
+DN061,Dệt may,Siêu nhỏ,Được hỗ trợ,73.0,Gần ngưỡng chọn (điểm 62–74),1,5.19,13.3,Được hỗ trợ
+DN062,Thương mại – dịch vụ,Nhỏ,Đăng ký nhưng không được chọn,55.0,Xa ngưỡng,0,7.74,-0.3,Không được hỗ trợ
+DN063,Cơ khí,Nhỏ,Được hỗ trợ,72.0,Gần ngưỡng chọn (điểm 62–74),1,8.37,10.7,Được hỗ trợ
+DN064,Chế biến nông sản,Siêu nhỏ,Đăng ký nhưng không được chọn,56.0,Xa ngưỡng,0,15.33,5.9,Không được hỗ trợ
+DN065,Dệt may,Nhỏ,Đăng ký nhưng không được chọn,67.0,Gần ngưỡng chọn (điểm 62–74),0,6.98,8.7,Không được hỗ trợ
+DN066,Công nghệ thông tin,Nhỏ,Đăng ký nhưng không được chọn,53.0,Xa ngưỡng,0,8.56,2.4,Không được hỗ trợ
+DN067,Công nghệ thông tin,Siêu nhỏ,Được hỗ trợ,80.0,Xa ngưỡng,1,8.06,16.0,Được hỗ trợ
+DN068,Dệt may,Siêu nhỏ,Đăng ký nhưng không được chọn,67.0,Gần ngưỡng chọn (điểm 62–74),0,5.85,7.1,Không được hỗ trợ
+DN069,Dệt may,Nhỏ,Đăng ký nhưng không được chọn,58.0,Xa ngưỡng,0,4.69,-2.4,Không được hỗ trợ
+DN070,Thương mại – dịch vụ,Siêu nhỏ,Được hỗ trợ,70.0,Gần ngưỡng chọn (điểm 62–74),1,4.24,10.1,Được hỗ trợ
+DN071,Chế biến nông sản,Siêu nhỏ,Được hỗ trợ,68.0,Gần ngưỡng chọn (điểm 62–74),1,4.19,12.9,Được hỗ trợ
+DN072,Thương mại – dịch vụ,Nhỏ,Đăng ký nhưng không được chọn,61.0,Xa ngưỡng,0,8.0,-2.8,Không được hỗ trợ
+DN073,Công nghệ thông tin,Nhỏ,Đăng ký nhưng không được chọn,45.0,Xa ngưỡng,0,6.17,-2.8,Không được hỗ trợ
+DN074,Chế biến nông sản,Vừa,Đăng ký nhưng không được chọn,63.0,Gần ngưỡng chọn (điểm 62–74),0,32.99,7.6,Không được hỗ trợ
+DN075,Cơ khí,Siêu nhỏ,Đăng ký nhưng không được chọn,67.0,Gần ngưỡng chọn (điểm 62–74),0,3.75,8.2,Không được hỗ trợ
+DN076,Công nghệ thông tin,Siêu nhỏ,Đăng ký nhưng không được chọn,55.0,Xa ngưỡng,0,8.62,5.2,Không được hỗ trợ
+DN077,Chế biến nông sản,Siêu nhỏ,Được hỗ trợ,72.0,Gần ngưỡng chọn (điểm 62–74),1,1.55,16.3,Được hỗ trợ
+DN078,Thương mại – dịch vụ,Nhỏ,Đăng ký nhưng không được chọn,65.0,Gần ngưỡng chọn (điểm 62–74),0,10.92,-6.1,Không được hỗ trợ
+DN079,Công nghệ thông tin,Siêu nhỏ,Được hỗ trợ,90.0,Xa ngưỡng,1,2.01,27.3,Được hỗ trợ
+DN080,Cơ khí,Siêu nhỏ,Được hỗ trợ,68.0,Gần ngưỡng chọn (điểm 62–74),1,9.57,4.2,Được hỗ trợ
+DN081,Thương mại – dịch vụ,Siêu nhỏ,Được hỗ trợ,88.0,Xa ngưỡng,1,10.46,18.9,Được hỗ trợ
+DN082,Cơ khí,Siêu nhỏ,Đăng ký nhưng không được chọn,36.0,Xa ngưỡng,0,5.48,-4.4,Không được hỗ trợ
+DN083,Chế biến nông sản,Siêu nhỏ,Được hỗ trợ,87.0,Xa ngưỡng,1,16.55,15.0,Được hỗ trợ
+DN084,Thương mại – dịch vụ,Siêu nhỏ,Được hỗ trợ,78.0,Xa ngưỡng,1,1.22,9.3,Được hỗ trợ
+DN085,Thương mại – dịch vụ,Siêu nhỏ,Đăng ký nhưng không được chọn,60.0,Xa ngưỡng,0,6.27,17.3,Không được hỗ trợ
+DN086,Dệt may,Nhỏ,Được hỗ trợ,96.0,Xa ngưỡng,1,13.03,21.5,Được hỗ trợ
+DN087,Dệt may,Siêu nhỏ,Được hỗ trợ,88.0,Xa ngưỡng,1,3.73,20.7,Được hỗ trợ
+DN088,Chế biến nông sản,Nhỏ,Đăng ký nhưng không được chọn,40.0,Xa ngưỡng,0,12.69,-6.7,Không được hỗ trợ
+DN089,Cơ khí,Siêu nhỏ,Đăng ký nhưng không được chọn,63.0,Gần ngưỡng chọn (điểm 62–74),0,4.23,7.3,Không được hỗ trợ
+DN090,Chế biến nông sản,Nhỏ,Đăng ký nhưng không được chọn,67.0,Gần ngưỡng chọn (điểm 62–74),0,4.46,5.9,Không được hỗ trợ
+DN091,Công nghệ thông tin,Siêu nhỏ,Được hỗ trợ,76.0,Xa ngưỡng,1,4.87,8.9,Được hỗ trợ
+DN092,Dệt may,Siêu nhỏ,Đăng ký nhưng không được chọn,64.0,Gần ngưỡng chọn (điểm 62–74),0,13.06,3.3,Không được hỗ trợ
+DN093,Chế biến nông sản,Siêu nhỏ,Được hỗ trợ,76.0,Xa ngưỡng,1,2.83,16.2,Được hỗ trợ
+DN094,Thương mại – dịch vụ,Nhỏ,Được hỗ trợ,90.0,Xa ngưỡng,1,8.63,22.6,Được hỗ trợ
+DN095,Cơ khí,Nhỏ,Đăng ký nhưng không được chọn,52.0,Xa ngưỡng,0,10.31,-3.9,Không được hỗ trợ
+DN096,Dệt may,Vừa,Đăng ký nhưng không được chọn,67.0,Gần ngưỡng chọn (điểm 62–74),0,11.73,12.2,Không được hỗ trợ
+DN097,Công nghệ thông tin,Siêu nhỏ,Đăng ký nhưng không được chọn,61.0,Xa ngưỡng,0,3.47,11.0,Không được hỗ trợ
+DN098,Công nghệ thông tin,Nhỏ,Được hỗ trợ,83.0,Xa ngưỡng,1,8.68,16.7,Được hỗ trợ
+DN099,Dệt may,Nhỏ,Được hỗ trợ,73.0,Gần ngưỡng chọn (điểm 62–74),1,19.63,14.3,Được hỗ trợ
+DN100,Công nghệ thông tin,Siêu nhỏ,Đăng ký nhưng không được chọn,51.0,Xa ngưỡng,0,5.81,7.0,Không được hỗ trợ
+DN101,Thương mại – dịch vụ,Vừa,Được hỗ trợ,71.0,Gần ngưỡng chọn (điểm 62–74),1,15.35,20.1,Được hỗ trợ
+DN102,Thương mại – dịch vụ,Nhỏ,Được hỗ trợ,82.0,Xa ngưỡng,1,10.84,17.3,Được hỗ trợ
+DN103,Chế biến nông sản,Vừa,Được hỗ trợ,83.0,Xa ngưỡng,1,6.45,17.3,Được hỗ trợ
+DN104,Chế biến nông sản,Nhỏ,Được hỗ trợ,68.0,Gần ngưỡng chọn (điểm 62–74),1,13.51,6.6,Được hỗ trợ
+DN105,Công nghệ thông tin,Nhỏ,Được hỗ trợ,72.0,Gần ngưỡng chọn (điểm 62–74),1,9.57,8.3,Được hỗ trợ
+DN106,Cơ khí,Siêu nhỏ,Đăng ký nhưng không được chọn,55.0,Xa ngưỡng,0,2.33,10.8,Không được hỗ trợ
+DN107,Dệt may,Siêu nhỏ,Được hỗ trợ,74.0,Gần ngưỡng chọn (điểm 62–74),1,3.34,18.5,Được hỗ trợ
+DN108,Công nghệ thông tin,Siêu nhỏ,Được hỗ trợ,92.0,Xa ngưỡng,1,7.02,19.0,Được hỗ trợ
+DN109,Thương mại – dịch vụ,Nhỏ,Được hỗ trợ,72.0,Gần ngưỡng chọn (điểm 62–74),1,12.7,24.0,Được hỗ trợ
+DN110,Công nghệ thông tin,Nhỏ,Đăng ký nhưng không được chọn,54.0,Xa ngưỡng,0,5.65,8.5,Không được hỗ trợ
+DN111,Dệt may,Nhỏ,Được hỗ trợ,69.0,Gần ngưỡng chọn (điểm 62–74),1,11.22,13.2,Được hỗ trợ
+DN112,Chế biến nông sản,Nhỏ,Đăng ký nhưng không được chọn,46.0,Xa ngưỡng,0,10.37,-4.1,Không được hỗ trợ
+DN113,Chế biến nông sản,Siêu nhỏ,Được hỗ trợ,79.0,Xa ngưỡng,1,5.99,20.4,Được hỗ trợ
+DN114,Thương mại – dịch vụ,Nhỏ,Đăng ký nhưng không được chọn,67.0,Gần ngưỡng chọn (điểm 62–74),0,11.65,5.3,Không được hỗ trợ
+DN115,Dệt may,Vừa,Đăng ký nhưng không được chọn,51.0,Xa ngưỡng,0,18.72,4.3,Không được hỗ trợ
+DN116,Dệt may,Nhỏ,Đăng ký nhưng không được chọn,52.0,Xa ngưỡng,0,8.08,-1.7,Không được hỗ trợ
+DN117,Thương mại – dịch vụ,Nhỏ,Được hỗ trợ,69.0,Gần ngưỡng chọn (điểm 62–74),1,10.12,14.1,Được hỗ trợ
+DN118,Cơ khí,Siêu nhỏ,Được hỗ trợ,85.0,Xa ngưỡng,1,4.31,22.4,Được hỗ trợ
+DN119,Chế biến nông sản,Nhỏ,Được hỗ trợ,88.0,Xa ngưỡng,1,8.29,15.0,Được hỗ trợ
+DN120,Công nghệ thông tin,Siêu nhỏ,Được hỗ trợ,92.0,Xa ngưỡng,1,2.36,22.6,Được hỗ trợ
+DN121,Chế biến nông sản,Nhỏ,Được hỗ trợ,85.0,Xa ngưỡng,1,13.2,16.5,Được hỗ trợ
+DN122,Thương mại – dịch vụ,Vừa,Đăng ký nhưng không được chọn,65.0,Gần ngưỡng chọn (điểm 62–74),0,13.13,7.0,Không được hỗ trợ
+DN123,Công nghệ thông tin,Siêu nhỏ,Đăng ký nhưng không được chọn,58.0,Xa ngưỡng,0,8.8,7.2,Không được hỗ trợ
+DN124,Chế biến nông sản,Nhỏ,Được hỗ trợ,76.0,Xa ngưỡng,1,15.93,13.9,Được hỗ trợ
+DN125,Thương mại – dịch vụ,Siêu nhỏ,Đăng ký nhưng không được chọn,44.0,Xa ngưỡng,0,7.68,2.3,Không được hỗ trợ
+DN126,Công nghệ thông tin,Nhỏ,Đăng ký nhưng không được chọn,49.0,Xa ngưỡng,0,8.87,7.9,Không được hỗ trợ
+DN127,Dệt may,Siêu nhỏ,Được hỗ trợ,76.0,Xa ngưỡng,1,8.16,9.7,Được hỗ trợ
+DN128,Dệt may,Nhỏ,Đăng ký nhưng không được chọn,62.0,Gần ngưỡng chọn (điểm 62–74),0,6.89,-4.1,Không được hỗ trợ
+DN129,Thương mại – dịch vụ,Siêu nhỏ,Đăng ký nhưng không được chọn,56.0,Xa ngưỡng,0,6.31,0.4,Không được hỗ trợ
+DN130,Cơ khí,Vừa,Được hỗ trợ,71.0,Gần ngưỡng chọn (điểm 62–74),1,23.57,11.8,Được hỗ trợ
+DN131,Cơ khí,Nhỏ,Được hỗ trợ,73.0,Gần ngưỡng chọn (điểm 62–74),1,9.2,20.0,Được hỗ trợ
+DN132,Công nghệ thông tin,Vừa,Đăng ký nhưng không được chọn,66.0,Gần ngưỡng chọn (điểm 62–74),0,16.84,7.1,Không được hỗ trợ
+DN133,Thương mại – dịch vụ,Nhỏ,Được hỗ trợ,78.0,Xa ngưỡng,1,11.88,22.3,Được hỗ trợ
+DN134,Dệt may,Siêu nhỏ,Được hỗ trợ,72.0,Gần ngưỡng chọn (điểm 62–74),1,2.78,10.4,Được hỗ trợ
+DN135,Công nghệ thông tin,Nhỏ,Được hỗ trợ,71.0,Gần ngưỡng chọn (điểm 62–74),1,6.11,10.5,Được hỗ trợ
+DN136,Thương mại – dịch vụ,Vừa,Đăng ký nhưng không được chọn,37.0,Xa ngưỡng,0,13.57,2.6,Không được hỗ trợ
+DN137,Công nghệ thông tin,Siêu nhỏ,Được hỗ trợ,92.0,Xa ngưỡng,1,3.9,25.1,Được hỗ trợ
+DN138,Dệt may,Siêu nhỏ,Đăng ký nhưng không được chọn,56.0,Xa ngưỡng,0,7.14,-4.7,Không được hỗ trợ
+DN139,Công nghệ thông tin,Siêu nhỏ,Đăng ký nhưng không được chọn,55.0,Xa ngưỡng,0,6.22,-9.0,Không được hỗ trợ
+DN140,Thương mại – dịch vụ,Siêu nhỏ,Đăng ký nhưng không được chọn,47.0,Xa ngưỡng,0,2.5,-6.0,Không được hỗ trợ
+DN141,Chế biến nông sản,Siêu nhỏ,Đăng ký nhưng không được chọn,49.0,Xa ngưỡng,0,2.62,-3.9,Không được hỗ trợ
+DN142,Công nghệ thông tin,Nhỏ,Đăng ký nhưng không được chọn,63.0,Gần ngưỡng chọn (điểm 62–74),0,4.69,1.3,Không được hỗ trợ
+DN143,Dệt may,Siêu nhỏ,Được hỗ trợ,91.0,Xa ngưỡng,1,4.47,19.8,Được hỗ trợ
+DN144,Chế biến nông sản,Nhỏ,Đăng ký nhưng không được chọn,66.0,Gần ngưỡng chọn (điểm 62–74),0,7.67,-0.1,Không được hỗ trợ
+DN145,Cơ khí,Vừa,Được hỗ trợ,84.0,Xa ngưỡng,1,8.09,20.6,Được hỗ trợ
+DN146,Dệt may,Siêu nhỏ,Được hỗ trợ,73.0,Gần ngưỡng chọn (điểm 62–74),1,2.88,13.8,Được hỗ trợ
+DN147,Chế biến nông sản,Nhỏ,Được hỗ trợ,78.0,Xa ngưỡng,1,8.04,13.1,Được hỗ trợ
+DN148,Thương mại – dịch vụ,Siêu nhỏ,Đăng ký nhưng không được chọn,57.0,Xa ngưỡng,0,3.6,3.9,Không được hỗ trợ
+DN149,Chế biến nông sản,Nhỏ,Được hỗ trợ,70.0,Gần ngưỡng chọn (điểm 62–74),1,7.46,6.3,Được hỗ trợ
+DN150,Thương mại – dịch vụ,Vừa,Được hỗ trợ,73.0,Gần ngưỡng chọn (điểm 62–74),1,21.19,18.8,Được hỗ trợ
+DN151,Cơ khí,Vừa,Được hỗ trợ,86.0,Xa ngưỡng,1,11.22,15.3,Được hỗ trợ
+DN152,Chế biến nông sản,Vừa,Đăng ký nhưng không được chọn,60.0,Xa ngưỡng,0,20.75,1.0,Không được hỗ trợ
+DN153,Thương mại – dịch vụ,Vừa,Đăng ký nhưng không được chọn,65.0,Gần ngưỡng chọn (điểm 62–74),0,14.68,7.8,Không được hỗ trợ
+DN154,Dệt may,Nhỏ,Đăng ký nhưng không được chọn,62.0,Gần ngưỡng chọn (điểm 62–74),0,3.87,2.8,Không được hỗ trợ
+DN155,Cơ khí,Nhỏ,Đăng ký nhưng không được chọn,67.0,Gần ngưỡng chọn (điểm 62–74),0,6.14,10.7,Không được hỗ trợ
+DN156,Dệt may,Siêu nhỏ,Được hỗ trợ,68.0,Gần ngưỡng chọn (điểm 62–74),1,5.73,15.2,Được hỗ trợ
+DN157,Công nghệ thông tin,Siêu nhỏ,Đăng ký nhưng không được chọn,43.0,Xa ngưỡng,0,4.6,-2.5,Không được hỗ trợ
+DN158,Chế biến nông sản,Nhỏ,Được hỗ trợ,69.0,Gần ngưỡng chọn (điểm 62–74),1,10.16,11.6,Được hỗ trợ
+DN159,Thương mại – dịch vụ,Vừa,Đăng ký nhưng không được chọn,66.0,Gần ngưỡng chọn (điểm 62–74),0,15.56,4.3,Không được hỗ trợ
+DN160,Công nghệ thông tin,Nhỏ,Đăng ký nhưng không được chọn,53.0,Xa ngưỡng,0,8.3,2.5,Không được hỗ trợ
+DN161,Cơ khí,Vừa,Đăng ký nhưng không được chọn,64.0,Gần ngưỡng chọn (điểm 62–74),0,17.61,3.6,Không được hỗ trợ
+DN162,Chế biến nông sản,Siêu nhỏ,Được hỗ trợ,74.0,Gần ngưỡng chọn (điểm 62–74),1,3.05,9.8,Được hỗ trợ
+DN163,Chế biến nông sản,Siêu nhỏ,Đăng ký nhưng không được chọn,49.0,Xa ngưỡng,0,9.71,-4.6,Không được hỗ trợ
+DN164,Chế biến nông sản,Siêu nhỏ,Đăng ký nhưng không được chọn,66.0,Gần ngưỡng chọn (điểm 62–74),0,3.64,11.1,Không được hỗ trợ
+DN165,Thương mại – dịch vụ,Vừa,Đăng ký nhưng không được chọn,64.0,Gần ngưỡng chọn (điểm 62–74),0,6.3,9.1,Không được hỗ trợ
+DN166,Cơ khí,Vừa,Được hỗ trợ,79.0,Xa ngưỡng,1,32.52,13.8,Được hỗ trợ
+DN167,Cơ khí,Siêu nhỏ,Đăng ký nhưng không được chọn,49.0,Xa ngưỡng,0,8.78,-14.6,Không được hỗ trợ
+DN168,Công nghệ thông tin,Nhỏ,Đăng ký nhưng không được chọn,52.0,Xa ngưỡng,0,18.99,-0.4,Không được hỗ trợ
+DN169,Thương mại – dịch vụ,Siêu nhỏ,Đăng ký nhưng không được chọn,47.0,Xa ngưỡng,0,15.85,0.5,Không được hỗ trợ
+DN170,Công nghệ thông tin,Siêu nhỏ,Đăng ký nhưng không được chọn,60.0,Xa ngưỡng,0,7.5,10.0,Không được hỗ trợ
+DN171,Dệt may,Nhỏ,Đăng ký nhưng không được chọn,49.0,Xa ngưỡng,0,13.7,-8.7,Không được hỗ trợ
+DN172,Chế biến nông sản,Nhỏ,Được hỗ trợ,76.0,Xa ngưỡng,1,5.74,14.6,Được hỗ trợ
+DN173,Dệt may,Nhỏ,Được hỗ trợ,99.0,Xa ngưỡng,1,4.86,33.9,Được hỗ trợ
+DN174,Chế biến nông sản,Vừa,Được hỗ trợ,73.0,Gần ngưỡng chọn (điểm 62–74),1,12.78,16.7,Được hỗ trợ
+DN175,Chế biến nông sản,Nhỏ,Đăng ký nhưng không được chọn,64.0,Gần ngưỡng chọn (điểm 62–74),0,11.51,4.4,Không được hỗ trợ
+DN176,Dệt may,Siêu nhỏ,Đăng ký nhưng không được chọn,61.0,Xa ngưỡng,0,2.35,4.7,Không được hỗ trợ
+DN177,Dệt may,Siêu nhỏ,Đăng ký nhưng không được chọn,49.0,Xa ngưỡng,0,3.62,5.1,Không được hỗ trợ
+DN178,Công nghệ thông tin,Nhỏ,Được hỗ trợ,71.0,Gần ngưỡng chọn (điểm 62–74),1,8.98,15.7,Được hỗ trợ
+DN179,Cơ khí,Nhỏ,Được hỗ trợ,97.0,Xa ngưỡng,1,8.71,26.1,Được hỗ trợ
+DN180,Dệt may,Siêu nhỏ,Đăng ký nhưng không được chọn,61.0,Xa ngưỡng,0,6.07,4.0,Không được hỗ trợ
+DN181,Công nghệ thông tin,Vừa,Được hỗ trợ,72.0,Gần ngưỡng chọn (điểm 62–74),1,16.63,15.6,Được hỗ trợ
+DN182,Công nghệ thông tin,Nhỏ,Đăng ký nhưng không được chọn,64.0,Gần ngưỡng chọn (điểm 62–74),0,8.2,14.9,Không được hỗ trợ
+DN183,Dệt may,Siêu nhỏ,Được hỗ trợ,81.0,Xa ngưỡng,1,4.9,20.1,Được hỗ trợ
+DN184,Thương mại – dịch vụ,Nhỏ,Đăng ký nhưng không được chọn,59.0,Xa ngưỡng,0,8.09,5.6,Không được hỗ trợ
+DN185,Công nghệ thông tin,Siêu nhỏ,Đăng ký nhưng không được chọn,66.0,Gần ngưỡng chọn (điểm 62–74),0,4.79,-0.0,Không được hỗ trợ
+DN186,Công nghệ thông tin,Siêu nhỏ,Được hỗ trợ,69.0,Gần ngưỡng chọn (điểm 62–74),1,3.97,11.0,Được hỗ trợ
+DN187,Dệt may,Nhỏ,Đăng ký nhưng không được chọn,66.0,Gần ngưỡng chọn (điểm 62–74),0,11.15,7.8,Không được hỗ trợ
+DN188,Chế biến nông sản,Nhỏ,Đăng ký nhưng không được chọn,52.0,Xa ngưỡng,0,4.17,-5.9,Không được hỗ trợ
+DN189,Công nghệ thông tin,Siêu nhỏ,Được hỗ trợ,72.0,Gần ngưỡng chọn (điểm 62–74),1,12.66,20.5,Được hỗ trợ
+DN190,Cơ khí,Nhỏ,Được hỗ trợ,72.0,Gần ngưỡng chọn (điểm 62–74),1,6.05,11.5,Được hỗ trợ
+DN191,Thương mại – dịch vụ,Siêu nhỏ,Được hỗ trợ,78.0,Xa ngưỡng,1,7.08,16.7,Được hỗ trợ
+DN192,Thương mại – dịch vụ,Siêu nhỏ,Đăng ký nhưng không được chọn,66.0,Gần ngưỡng chọn (điểm 62–74),0,5.07,-2.1,Không được hỗ trợ
+DN193,Chế biến nông sản,Nhỏ,Đăng ký nhưng không được chọn,64.0,Gần ngưỡng chọn (điểm 62–74),0,5.53,1.5,Không được hỗ trợ
+DN194,Dệt may,Vừa,Được hỗ trợ,92.0,Xa ngưỡng,1,23.95,27.3,Được hỗ trợ
+DN195,Thương mại – dịch vụ,Nhỏ,Đăng ký nhưng không được chọn,58.0,Xa ngưỡng,0,13.07,-5.5,Không được hỗ trợ
+DN196,Công nghệ thông tin,Nhỏ,Đăng ký nhưng không được chọn,57.0,Xa ngưỡng,0,4.01,6.7,Không được hỗ trợ
+DN197,Thương mại – dịch vụ,Vừa,Đăng ký nhưng không được chọn,38.0,Xa ngưỡng,0,43.92,-2.6,Không được hỗ trợ
+DN198,Công nghệ thông tin,Siêu nhỏ,Đăng ký nhưng không được chọn,54.0,Xa ngưỡng,0,17.77,0.6,Không được hỗ trợ
+DN199,Thương mại – dịch vụ,Siêu nhỏ,Được hỗ trợ,81.0,Xa ngưỡng,1,5.9,17.5,Được hỗ trợ
+DN200,Cơ khí,Siêu nhỏ,Được hỗ trợ,77.0,Xa ngưỡng,1,2.87,15.8,Được hỗ trợ
+DN201,Công nghệ thông tin,Siêu nhỏ,Đăng ký nhưng không được chọn,61.0,Xa ngưỡng,0,2.23,-2.5,Không được hỗ trợ
+DN202,Dệt may,Nhỏ,Được hỗ trợ,79.0,Xa ngưỡng,1,10.58,24.5,Được hỗ trợ
+DN203,Cơ khí,Siêu nhỏ,Đăng ký nhưng không được chọn,54.0,Xa ngưỡng,0,8.84,5.6,Không được hỗ trợ
+DN204,Dệt may,Vừa,Đăng ký nhưng không được chọn,52.0,Xa ngưỡng,0,6.71,-8.2,Không được hỗ trợ
+DN205,Cơ khí,Nhỏ,Đăng ký nhưng không được chọn,49.0,Xa ngưỡng,0,1.77,-5.2,Không được hỗ trợ
+DN206,Dệt may,Vừa,Được hỗ trợ,72.0,Gần ngưỡng chọn (điểm 62–74),1,13.58,20.3,Được hỗ trợ
+DN207,Chế biến nông sản,Nhỏ,Đăng ký nhưng không được chọn,52.0,Xa ngưỡng,0,16.24,7.0,Không được hỗ trợ
+DN208,Thương mại – dịch vụ,Siêu nhỏ,Đăng ký nhưng không được chọn,41.0,Xa ngưỡng,0,4.31,-7.0,Không được hỗ trợ
+DN209,Cơ khí,Nhỏ,Đăng ký nhưng không được chọn,49.0,Xa ngưỡng,0,2.16,6.7,Không được hỗ trợ
+DN210,Dệt may,Siêu nhỏ,Đăng ký nhưng không được chọn,65.0,Gần ngưỡng chọn (điểm 62–74),0,3.09,10.7,Không được hỗ trợ
+DN211,Dệt may,Siêu nhỏ,Được hỗ trợ,81.0,Xa ngưỡng,1,5.67,21.1,Được hỗ trợ
+DN212,Cơ khí,Nhỏ,Được hỗ trợ,72.0,Gần ngưỡng chọn (điểm 62–74),1,8.52,5.8,Được hỗ trợ
+DN213,Thương mại – dịch vụ,Siêu nhỏ,Đăng ký nhưng không được chọn,54.0,Xa ngưỡng,0,4.42,-0.2,Không được hỗ trợ
+DN214,Dệt may,Nhỏ,Được hỗ trợ,68.0,Gần ngưỡng chọn (điểm 62–74),1,9.05,6.9,Được hỗ trợ
+DN215,Cơ khí,Siêu nhỏ,Đăng ký nhưng không được chọn,37.0,Xa ngưỡng,0,8.96,-6.4,Không được hỗ trợ
+DN216,Chế biến nông sản,Siêu nhỏ,Được hỗ trợ,69.0,Gần ngưỡng chọn (điểm 62–74),1,2.4,13.1,Được hỗ trợ
+DN217,Chế biến nông sản,Vừa,Được hỗ trợ,77.0,Xa ngưỡng,1,9.64,14.2,Được hỗ trợ
+DN218,Cơ khí,Siêu nhỏ,Được hỗ trợ,74.0,Gần ngưỡng chọn (điểm 62–74),1,3.54,7.7,Được hỗ trợ
+DN219,Công nghệ thông tin,Siêu nhỏ,Đăng ký nhưng không được chọn,67.0,Gần ngưỡng chọn (điểm 62–74),0,9.3,5.5,Không được hỗ trợ
+DN220,Thương mại – dịch vụ,Nhỏ,Được hỗ trợ,81.0,Xa ngưỡng,1,6.56,19.2,Được hỗ trợ
+DN221,Cơ khí,Siêu nhỏ,Được hỗ trợ,83.0,Xa ngưỡng,1,4.43,23.4,Được hỗ trợ
+DN222,Dệt may,Siêu nhỏ,Đăng ký nhưng không được chọn,67.0,Gần ngưỡng chọn (điểm 62–74),0,8.88,-0.3,Không được hỗ trợ
+DN223,Dệt may,Siêu nhỏ,Được hỗ trợ,83.0,Xa ngưỡng,1,10.17,16.9,Được hỗ trợ
+DN224,Cơ khí,Nhỏ,Được hỗ trợ,70.0,Gần ngưỡng chọn (điểm 62–74),1,2.72,15.3,Được hỗ trợ
+DN225,Chế biến nông sản,Nhỏ,Được hỗ trợ,71.0,Gần ngưỡng chọn (điểm 62–74),1,7.5,17.1,Được hỗ trợ
+DN226,Dệt may,Nhỏ,Đăng ký nhưng không được chọn,62.0,Gần ngưỡng chọn (điểm 62–74),0,11.94,13.3,Không được hỗ trợ
+DN227,Cơ khí,Siêu nhỏ,Đăng ký nhưng không được chọn,64.0,Gần ngưỡng chọn (điểm 62–74),0,4.76,3.6,Không được hỗ trợ
+DN228,Công nghệ thông tin,Siêu nhỏ,Đăng ký nhưng không được chọn,63.0,Gần ngưỡng chọn (điểm 62–74),0,5.43,1.6,Không được hỗ trợ
+DN229,Dệt may,Siêu nhỏ,Đăng ký nhưng không được chọn,59.0,Xa ngưỡng,0,3.58,-2.0,Không được hỗ trợ
+DN230,Công nghệ thông tin,Siêu nhỏ,Đăng ký nhưng không được chọn,51.0,Xa ngưỡng,0,4.11,3.9,Không được hỗ trợ
+DN231,Thương mại – dịch vụ,Siêu nhỏ,Được hỗ trợ,76.0,Xa ngưỡng,1,3.26,18.9,Được hỗ trợ
+DN232,Chế biến nông sản,Siêu nhỏ,Đăng ký nhưng không được chọn,60.0,Xa ngưỡng,0,6.33,7.8,Không được hỗ trợ
+DN233,Dệt may,Siêu nhỏ,Đăng ký nhưng không được chọn,54.0,Xa ngưỡng,0,5.38,1.4,Không được hỗ trợ
+DN234,Chế biến nông sản,Nhỏ,Đăng ký nhưng không được chọn,64.0,Gần ngưỡng chọn (điểm 62–74),0,5.67,7.4,Không được hỗ trợ
+DN235,Chế biến nông sản,Nhỏ,Được hỗ trợ,68.0,Gần ngưỡng chọn (điểm 62–74),1,9.91,6.8,Được hỗ trợ
+DN236,Dệt may,Siêu nhỏ,Được hỗ trợ,81.0,Xa ngưỡng,1,12.32,21.0,Được hỗ trợ
+DN237,Dệt may,Vừa,Được hỗ trợ,72.0,Gần ngưỡng chọn (điểm 62–74),1,16.74,17.4,Được hỗ trợ
+DN238,Chế biến nông sản,Vừa,Đăng ký nhưng không được chọn,45.0,Xa ngưỡng,0,27.97,-12.2,Không được hỗ trợ
+DN239,Cơ khí,Nhỏ,Được hỗ trợ,69.0,Gần ngưỡng chọn (điểm 62–74),1,3.99,16.1,Được hỗ trợ
+DN240,Công nghệ thông tin,Vừa,Được hỗ trợ,74.0,Gần ngưỡng chọn (điểm 62–74),1,16.67,8.1,Được hỗ trợ
+DN241,Thương mại – dịch vụ,Siêu nhỏ,Đăng ký nhưng không được chọn,63.0,Gần ngưỡng chọn (điểm 62–74),0,3.99,5.4,Không được hỗ trợ
+DN242,Cơ khí,Siêu nhỏ,Đăng ký nhưng không được chọn,46.0,Xa ngưỡng,0,7.1,1.4,Không được hỗ trợ
+DN243,Dệt may,Siêu nhỏ,Được hỗ trợ,99.0,Xa ngưỡng,1,2.25,23.5,Được hỗ trợ
+DN244,Cơ khí,Siêu nhỏ,Đăng ký nhưng không được chọn,55.0,Xa ngưỡng,0,8.43,3.7,Không được hỗ trợ
+DN245,Cơ khí,Siêu nhỏ,Được hỗ trợ,71.0,Gần ngưỡng chọn (điểm 62–74),1,7.61,14.4,Được hỗ trợ
+DN246,Công nghệ thông tin,Nhỏ,Đăng ký nhưng không được chọn,67.0,Gần ngưỡng chọn (điểm 62–74),0,18.73,16.4,Không được hỗ trợ
+DN247,Công nghệ thông tin,Nhỏ,Đăng ký nhưng không được chọn,54.0,Xa ngưỡng,0,4.97,-7.4,Không được hỗ trợ
+DN248,Thương mại – dịch vụ,Siêu nhỏ,Đăng ký nhưng không được chọn,54.0,Xa ngưỡng,0,11.69,-2.9,Không được hỗ trợ
+DN249,Cơ khí,Siêu nhỏ,Đăng ký nhưng không được chọn,43.0,Xa ngưỡng,0,7.7,6.0,Không được hỗ trợ
+DN250,Chế biến nông sản,Siêu nhỏ,Được hỗ trợ,95.0,Xa ngưỡng,1,7.5,26.1,Được hỗ trợ
+DN251,Cơ khí,Nhỏ,Được hỗ trợ,76.0,Xa ngưỡng,1,6.01,17.0,Được hỗ trợ
+DN252,Cơ khí,Siêu nhỏ,Đăng ký nhưng không được chọn,54.0,Xa ngưỡng,0,7.12,1.4,Không được hỗ trợ
+DN253,Chế biến nông sản,Siêu nhỏ,Được hỗ trợ,72.0,Gần ngưỡng chọn (điểm 62–74),1,1.91,14.8,Được hỗ trợ
+DN254,Chế biến nông sản,Siêu nhỏ,Được hỗ trợ,85.0,Xa ngưỡng,1,4.11,15.9,Được hỗ trợ
+DN255,Cơ khí,Vừa,Được hỗ trợ,80.0,Xa ngưỡng,1,17.67,23.1,Được hỗ trợ
+DN256,Thương mại – dịch vụ,Nhỏ,Đăng ký nhưng không được chọn,56.0,Xa ngưỡng,0,4.24,-1.2,Không được hỗ trợ
+DN257,Cơ khí,Siêu nhỏ,Đăng ký nhưng không được chọn,42.0,Xa ngưỡng,0,3.02,3.0,Không được hỗ trợ
+DN258,Thương mại – dịch vụ,Vừa,Đăng ký nhưng không được chọn,67.0,Gần ngưỡng chọn (điểm 62–74),0,14.77,12.5,Không được hỗ trợ
+DN259,Dệt may,Siêu nhỏ,Được hỗ trợ,91.0,Xa ngưỡng,1,11.71,12.9,Được hỗ trợ
+DN260,Chế biến nông sản,Nhỏ,Đăng ký nhưng không được chọn,65.0,Gần ngưỡng chọn (điểm 62–74),0,27.41,5.2,Không được hỗ trợ
+DN261,Công nghệ thông tin,Siêu nhỏ,Đăng ký nhưng không được chọn,61.0,Xa ngưỡng,0,8.48,1.0,Không được hỗ trợ
+DN262,Chế biến nông sản,Nhỏ,Đăng ký nhưng không được chọn,67.0,Gần ngưỡng chọn (điểm 62–74),0,8.15,6.2,Không được hỗ trợ
+DN263,Công nghệ thông tin,Siêu nhỏ,Được hỗ trợ,77.0,Xa ngưỡng,1,7.07,19.3,Được hỗ trợ
+DN264,Công nghệ thông tin,Nhỏ,Đăng ký nhưng không được chọn,58.0,Xa ngưỡng,0,5.85,6.7,Không được hỗ trợ
+DN265,Chế biến nông sản,Nhỏ,Đăng ký nhưng không được chọn,66.0,Gần ngưỡng chọn (điểm 62–74),0,7.95,9.0,Không được hỗ trợ
+DN266,Cơ khí,Vừa,Đăng ký nhưng không được chọn,64.0,Gần ngưỡng chọn (điểm 62–74),0,29.38,4.9,Không được hỗ trợ
+DN267,Công nghệ thông tin,Siêu nhỏ,Đăng ký nhưng không được chọn,45.0,Xa ngưỡng,0,5.45,-7.0,Không được hỗ trợ
+DN268,Thương mại – dịch vụ,Nhỏ,Được hỗ trợ,76.0,Xa ngưỡng,1,4.23,13.3,Được hỗ trợ
+DN269,Thương mại – dịch vụ,Siêu nhỏ,Được hỗ trợ,76.0,Xa ngưỡng,1,4.0,10.1,Được hỗ trợ
+DN270,Thương mại – dịch vụ,Siêu nhỏ,Được hỗ trợ,85.0,Xa ngưỡng,1,5.51,15.6,Được hỗ trợ
+DN271,Thương mại – dịch vụ,Siêu nhỏ,Được hỗ trợ,81.0,Xa ngưỡng,1,2.48,16.7,Được hỗ trợ
+DN272,Cơ khí,Siêu nhỏ,Được hỗ trợ,80.0,Xa ngưỡng,1,5.75,13.5,Được hỗ trợ
+DN273,Thương mại – dịch vụ,Siêu nhỏ,Đăng ký nhưng không được chọn,66.0,Gần ngưỡng chọn (điểm 62–74),0,6.14,1.9,Không được hỗ trợ
+DN274,Công nghệ thông tin,Siêu nhỏ,Được hỗ trợ,73.0,Gần ngưỡng chọn (điểm 62–74),1,7.48,25.9,Được hỗ trợ
+DN275,Công nghệ thông tin,Nhỏ,Được hỗ trợ,80.0,Xa ngưỡng,1,13.84,10.4,Được hỗ trợ
+DN276,Thương mại – dịch vụ,Vừa,Được hỗ trợ,73.0,Gần ngưỡng chọn (điểm 62–74),1,26.34,9.3,Được hỗ trợ
+DN277,Công nghệ thông tin,Nhỏ,Được hỗ trợ,83.0,Xa ngưỡng,1,4.6,23.8,Được hỗ trợ
+DN278,Dệt may,Vừa,Đăng ký nhưng không được chọn,65.0,Gần ngưỡng chọn (điểm 62–74),0,13.52,6.1,Không được hỗ trợ
+DN279,Công nghệ thông tin,Vừa,Được hỗ trợ,82.0,Xa ngưỡng,1,27.04,12.7,Được hỗ trợ
+DN280,Thương mại – dịch vụ,Vừa,Được hỗ trợ,76.0,Xa ngưỡng,1,17.58,10.1,Được hỗ trợ
+DN281,Chế biến nông sản,Nhỏ,Đăng ký nhưng không được chọn,63.0,Gần ngưỡng chọn (điểm 62–74),0,5.83,-2.0,Không được hỗ trợ
+DN282,Công nghệ thông tin,Nhỏ,Đăng ký nhưng không được chọn,67.0,Gần ngưỡng chọn (điểm 62–74),0,5.64,1.8,Không được hỗ trợ
+DN283,Cơ khí,Vừa,Đăng ký nhưng không được chọn,59.0,Xa ngưỡng,0,23.36,0.3,Không được hỗ trợ
+DN284,Chế biến nông sản,Siêu nhỏ,Được hỗ trợ,83.0,Xa ngưỡng,1,8.19,11.4,Được hỗ trợ
+DN285,Thương mại – dịch vụ,Siêu nhỏ,Được hỗ trợ,71.0,Gần ngưỡng chọn (điểm 62–74),1,4.62,2.7,Được hỗ trợ
+DN286,Cơ khí,Siêu nhỏ,Đăng ký nhưng không được chọn,44.0,Xa ngưỡng,0,3.34,-12.1,Không được hỗ trợ
+DN287,Dệt may,Siêu nhỏ,Đăng ký nhưng không được chọn,66.0,Gần ngưỡng chọn (điểm 62–74),0,4.16,9.1,Không được hỗ trợ
+DN288,Chế biến nông sản,Siêu nhỏ,Đăng ký nhưng không được chọn,63.0,Gần ngưỡng chọn (điểm 62–74),0,9.43,5.3,Không được hỗ trợ
+DN289,Cơ khí,Vừa,Được hỗ trợ,83.0,Xa ngưỡng,1,28.91,11.3,Được hỗ trợ
+DN290,Chế biến nông sản,Vừa,Được hỗ trợ,86.0,Xa ngưỡng,1,24.48,23.2,Được hỗ trợ
+DN291,Thương mại – dịch vụ,Nhỏ,Được hỗ trợ,85.0,Xa ngưỡng,1,6.65,10.0,Được hỗ trợ
+DN292,Chế biến nông sản,Vừa,Đăng ký nhưng không được chọn,48.0,Xa ngưỡng,0,14.34,-11.0,Không được hỗ trợ
+DN293,Thương mại – dịch vụ,Nhỏ,Đăng ký nhưng không được chọn,49.0,Xa ngưỡng,0,4.75,-13.6,Không được hỗ trợ
+DN294,Công nghệ thông tin,Nhỏ,Đăng ký nhưng không được chọn,57.0,Xa ngưỡng,0,18.64,1.6,Không được hỗ trợ
+DN295,Cơ khí,Siêu nhỏ,Đăng ký nhưng không được chọn,66.0,Gần ngưỡng chọn (điểm 62–74),0,5.68,8.4,Không được hỗ trợ
+DN296,Chế biến nông sản,Siêu nhỏ,Được hỗ trợ,70.0,Gần ngưỡng chọn (điểm 62–74),1,10.21,19.4,Được hỗ trợ
+DN297,Dệt may,Vừa,Được hỗ trợ,76.0,Xa ngưỡng,1,12.12,17.3,Được hỗ trợ
+DN298,Công nghệ thông tin,Siêu nhỏ,Đăng ký nhưng không được chọn,61.0,Xa ngưỡng,0,6.53,3.2,Không được hỗ trợ
+DN299,Công nghệ thông tin,Nhỏ,Được hỗ trợ,75.0,Xa ngưỡng,1,18.38,18.7,Được hỗ trợ
+DN300,Thương mại – dịch vụ,Nhỏ,Đăng ký nhưng không được chọn,55.0,Xa ngưỡng,0,6.36,5.9,Không được hỗ trợ
+DN301,Cơ khí,Siêu nhỏ,Không đăng ký,,Không có điểm,0,2.27,0.7,Không được hỗ trợ
+DN302,Dệt may,Siêu nhỏ,Không đăng ký,,Không có điểm,0,2.67,-4.5,Không được hỗ trợ
+DN303,Dệt may,Vừa,Không đăng ký,,Không có điểm,0,21.98,7.7,Không được hỗ trợ
+DN304,Chế biến nông sản,Vừa,Không đăng ký,,Không có điểm,0,18.24,-0.3,Không được hỗ trợ
+DN305,Chế biến nông sản,Siêu nhỏ,Không đăng ký,,Không có điểm,0,7.96,15.8,Không được hỗ trợ
+DN306,Thương mại – dịch vụ,Vừa,Không đăng ký,,Không có điểm,0,20.31,-10.7,Không được hỗ trợ
+DN307,Cơ khí,Vừa,Không đăng ký,,Không có điểm,0,32.72,4.8,Không được hỗ trợ
+DN308,Thương mại – dịch vụ,Siêu nhỏ,Không đăng ký,,Không có điểm,0,6.37,6.3,Không được hỗ trợ
+DN309,Dệt may,Vừa,Không đăng ký,,Không có điểm,0,15.14,7.9,Không được hỗ trợ
+DN310,Dệt may,Nhỏ,Không đăng ký,,Không có điểm,0,5.8,-10.9,Không được hỗ trợ
+DN311,Thương mại – dịch vụ,Vừa,Không đăng ký,,Không có điểm,0,34.91,-5.6,Không được hỗ trợ
+DN312,Dệt may,Vừa,Không đăng ký,,Không có điểm,0,8.21,1.8,Không được hỗ trợ
+DN313,Dệt may,Nhỏ,Không đăng ký,,Không có điểm,0,7.65,11.7,Không được hỗ trợ
+DN314,Thương mại – dịch vụ,Siêu nhỏ,Không đăng ký,,Không có điểm,0,6.92,19.6,Không được hỗ trợ
+DN315,Công nghệ thông tin,Nhỏ,Không đăng ký,,Không có điểm,0,3.51,7.3,Không được hỗ trợ
+DN316,Thương mại – dịch vụ,Nhỏ,Không đăng ký,,Không có điểm,0,7.07,7.3,Không được hỗ trợ
+DN317,Thương mại – dịch vụ,Siêu nhỏ,Không đăng ký,,Không có điểm,0,3.92,8.8,Không được hỗ trợ
+DN318,Cơ khí,Nhỏ,Không đăng ký,,Không có điểm,0,11.8,-0.2,Không được hỗ trợ
+DN319,Dệt may,Siêu nhỏ,Không đăng ký,,Không có điểm,0,6.54,-9.6,Không được hỗ trợ
+DN320,Cơ khí,Nhỏ,Không đăng ký,,Không có điểm,0,11.63,3.4,Không được hỗ trợ
+DN321,Thương mại – dịch vụ,Vừa,Không đăng ký,,Không có điểm,0,5.76,0.1,Không được hỗ trợ
+DN322,Cơ khí,Nhỏ,Không đăng ký,,Không có điểm,0,4.91,-10.1,Không được hỗ trợ
+DN323,Cơ khí,Siêu nhỏ,Không đăng ký,,Không có điểm,0,4.27,2.9,Không được hỗ trợ
+DN324,Dệt may,Siêu nhỏ,Không đăng ký,,Không có điểm,0,6.23,6.8,Không được hỗ trợ
+DN325,Công nghệ thông tin,Nhỏ,Không đăng ký,,Không có điểm,0,29.86,-3.9,Không được hỗ trợ
+DN326,Thương mại – dịch vụ,Siêu nhỏ,Không đăng ký,,Không có điểm,0,5.97,-6.6,Không được hỗ trợ
+DN327,Dệt may,Siêu nhỏ,Không đăng ký,,Không có điểm,0,6.43,8.0,Không được hỗ trợ
+DN328,Dệt may,Vừa,Không đăng ký,,Không có điểm,0,16.62,5.5,Không được hỗ trợ
+DN329,Cơ khí,Nhỏ,Không đăng ký,,Không có điểm,0,12.46,9.7,Không được hỗ trợ
+DN330,Chế biến nông sản,Vừa,Không đăng ký,,Không có điểm,0,11.69,-3.1,Không được hỗ trợ
+DN331,Cơ khí,Siêu nhỏ,Không đăng ký,,Không có điểm,0,4.43,7.8,Không được hỗ trợ
+DN332,Chế biến nông sản,Siêu nhỏ,Không đăng ký,,Không có điểm,0,9.46,3.2,Không được hỗ trợ
+DN333,Chế biến nông sản,Siêu nhỏ,Không đăng ký,,Không có điểm,0,5.21,8.7,Không được hỗ trợ
+DN334,Công nghệ thông tin,Siêu nhỏ,Không đăng ký,,Không có điểm,0,2.6,4.0,Không được hỗ trợ
+DN335,Cơ khí,Siêu nhỏ,Không đăng ký,,Không có điểm,0,5.71,7.6,Không được hỗ trợ
+DN336,Dệt may,Nhỏ,Không đăng ký,,Không có điểm,0,8.44,-5.5,Không được hỗ trợ
+DN337,Dệt may,Nhỏ,Không đăng ký,,Không có điểm,0,11.54,11.9,Không được hỗ trợ
+DN338,Công nghệ thông tin,Siêu nhỏ,Không đăng ký,,Không có điểm,0,3.27,-5.4,Không được hỗ trợ
+DN339,Chế biến nông sản,Siêu nhỏ,Không đăng ký,,Không có điểm,0,3.69,5.1,Không được hỗ trợ
+DN340,Dệt may,Nhỏ,Không đăng ký,,Không có điểm,0,7.06,-7.8,Không được hỗ trợ
+DN341,Công nghệ thông tin,Nhỏ,Không đăng ký,,Không có điểm,0,7.62,-10.1,Không được hỗ trợ
+DN342,Thương mại – dịch vụ,Vừa,Không đăng ký,,Không có điểm,0,17.66,6.6,Không được hỗ trợ
+DN343,Chế biến nông sản,Siêu nhỏ,Không đăng ký,,Không có điểm,0,2.23,7.5,Không được hỗ trợ
+DN344,Công nghệ thông tin,Nhỏ,Không đăng ký,,Không có điểm,0,11.16,3.2,Không được hỗ trợ
+DN345,Chế biến nông sản,Vừa,Không đăng ký,,Không có điểm,0,17.93,-0.3,Không được hỗ trợ
+DN346,Cơ khí,Siêu nhỏ,Không đăng ký,,Không có điểm,0,5.13,7.3,Không được hỗ trợ
+DN347,Cơ khí,Nhỏ,Không đăng ký,,Không có điểm,0,10.68,12.3,Không được hỗ trợ
+DN348,Công nghệ thông tin,Vừa,Không đăng ký,,Không có điểm,0,6.79,4.0,Không được hỗ trợ
+DN349,Cơ khí,Siêu nhỏ,Không đăng ký,,Không có điểm,0,6.28,-1.3,Không được hỗ trợ
+DN350,Công nghệ thông tin,Nhỏ,Không đăng ký,,Không có điểm,0,8.34,15.9,Không được hỗ trợ
+DN351,Cơ khí,Siêu nhỏ,Không đăng ký,,Không có điểm,0,12.92,3.2,Không được hỗ trợ
+DN352,Dệt may,Nhỏ,Không đăng ký,,Không có điểm,0,8.34,4.8,Không được hỗ trợ
+DN353,Cơ khí,Nhỏ,Không đăng ký,,Không có điểm,0,10.03,3.2,Không được hỗ trợ
+DN354,Cơ khí,Nhỏ,Không đăng ký,,Không có điểm,0,11.8,5.8,Không được hỗ trợ
+DN355,Dệt may,Siêu nhỏ,Không đăng ký,,Không có điểm,0,3.37,5.4,Không được hỗ trợ
+DN356,Thương mại – dịch vụ,Vừa,Không đăng ký,,Không có điểm,0,11.09,9.2,Không được hỗ trợ
+DN357,Cơ khí,Vừa,Không đăng ký,,Không có điểm,0,26.2,-2.4,Không được hỗ trợ
+DN358,Công nghệ thông tin,Nhỏ,Không đăng ký,,Không có điểm,0,9.9,-0.1,Không được hỗ trợ
+DN359,Công nghệ thông tin,Nhỏ,Không đăng ký,,Không có điểm,0,9.55,7.1,Không được hỗ trợ
+DN360,Thương mại – dịch vụ,Siêu nhỏ,Không đăng ký,,Không có điểm,0,6.75,2.3,Không được hỗ trợ
+DN361,Chế biến nông sản,Siêu nhỏ,Không đăng ký,,Không có điểm,0,6.68,3.7,Không được hỗ trợ
+DN362,Thương mại – dịch vụ,Nhỏ,Không đăng ký,,Không có điểm,0,10.16,6.9,Không được hỗ trợ
+DN363,Dệt may,Nhỏ,Không đăng ký,,Không có điểm,0,8.87,10.1,Không được hỗ trợ
+DN364,Dệt may,Nhỏ,Không đăng ký,,Không có điểm,0,6.34,12.1,Không được hỗ trợ
+DN365,Dệt may,Nhỏ,Không đăng ký,,Không có điểm,0,2.79,10.7,Không được hỗ trợ
+DN366,Chế biến nông sản,Nhỏ,Không đăng ký,,Không có điểm,0,10.42,13.4,Không được hỗ trợ
+DN367,Chế biến nông sản,Siêu nhỏ,Không đăng ký,,Không có điểm,0,21.93,-3.3,Không được hỗ trợ
+DN368,Công nghệ thông tin,Siêu nhỏ,Không đăng ký,,Không có điểm,0,7.34,-0.3,Không được hỗ trợ
+DN369,Thương mại – dịch vụ,Vừa,Không đăng ký,,Không có điểm,0,11.86,6.2,Không được hỗ trợ
+DN370,Chế biến nông sản,Nhỏ,Không đăng ký,,Không có điểm,0,13.52,4.2,Không được hỗ trợ
+DN371,Công nghệ thông tin,Siêu nhỏ,Không đăng ký,,Không có điểm,0,12.27,-3.7,Không được hỗ trợ
+DN372,Thương mại – dịch vụ,Siêu nhỏ,Không đăng ký,,Không có điểm,0,7.92,3.1,Không được hỗ trợ
+DN373,Công nghệ thông tin,Nhỏ,Không đăng ký,,Không có điểm,0,11.36,-4.0,Không được hỗ trợ
+DN374,Cơ khí,Siêu nhỏ,Không đăng ký,,Không có điểm,0,1.77,8.3,Không được hỗ trợ
+DN375,Dệt may,Nhỏ,Không đăng ký,,Không có điểm,0,5.18,-2.9,Không được hỗ trợ
+DN376,Cơ khí,Siêu nhỏ,Không đăng ký,,Không có điểm,0,3.43,7.0,Không được hỗ trợ
+DN377,Cơ khí,Nhỏ,Không đăng ký,,Không có điểm,0,6.09,7.4,Không được hỗ trợ
+DN378,Thương mại – dịch vụ,Siêu nhỏ,Không đăng ký,,Không có điểm,0,3.98,18.3,Không được hỗ trợ
+DN379,Chế biến nông sản,Nhỏ,Không đăng ký,,Không có điểm,0,5.31,2.1,Không được hỗ trợ
+DN380,Chế biến nông sản,Vừa,Không đăng ký,,Không có điểm,0,25.93,0.1,Không được hỗ trợ
+DN381,Công nghệ thông tin,Nhỏ,Không đăng ký,,Không có điểm,0,4.29,6.1,Không được hỗ trợ
+DN382,Dệt may,Nhỏ,Không đăng ký,,Không có điểm,0,6.5,4.0,Không được hỗ trợ
+DN383,Dệt may,Vừa,Không đăng ký,,Không có điểm,0,12.99,-14.0,Không được hỗ trợ
+DN384,Thương mại – dịch vụ,Nhỏ,Không đăng ký,,Không có điểm,0,5.6,-14.1,Không được hỗ trợ
+DN385,Thương mại – dịch vụ,Vừa,Không đăng ký,,Không có điểm,0,12.67,-5.2,Không được hỗ trợ
+DN386,Chế biến nông sản,Nhỏ,Không đăng ký,,Không có điểm,0,12.25,-1.8,Không được hỗ trợ
+DN387,Cơ khí,Siêu nhỏ,Không đăng ký,,Không có điểm,0,4.41,-0.2,Không được hỗ trợ
+DN388,Thương mại – dịch vụ,Nhỏ,Không đăng ký,,Không có điểm,0,6.59,0.2,Không được hỗ trợ
+DN389,Công nghệ thông tin,Siêu nhỏ,Không đăng ký,,Không có điểm,0,1.44,21.2,Không được hỗ trợ
+DN390,Dệt may,Siêu nhỏ,Không đăng ký,,Không có điểm,0,7.11,0.9,Không được hỗ trợ
+DN391,Công nghệ thông tin,Siêu nhỏ,Không đăng ký,,Không có điểm,0,3.47,-5.2,Không được hỗ trợ
+DN392,Công nghệ thông tin,Siêu nhỏ,Không đăng ký,,Không có điểm,0,5.78,-5.0,Không được hỗ trợ
+DN393,Thương mại – dịch vụ,Nhỏ,Không đăng ký,,Không có điểm,0,4.99,-1.5,Không được hỗ trợ
+DN394,Dệt may,Siêu nhỏ,Không đăng ký,,Không có điểm,0,2.32,0.5,Không được hỗ trợ
+DN395,Chế biến nông sản,Vừa,Không đăng ký,,Không có điểm,0,17.04,9.3,Không được hỗ trợ
+DN396,Công nghệ thông tin,Nhỏ,Không đăng ký,,Không có điểm,0,8.14,-7.4,Không được hỗ trợ
+DN397,Dệt may,Nhỏ,Không đăng ký,,Không có điểm,0,7.24,13.7,Không được hỗ trợ
+DN398,Cơ khí,Nhỏ,Không đăng ký,,Không có điểm,0,8.13,5.9,Không được hỗ trợ
+DN399,Cơ khí,Vừa,Không đăng ký,,Không có điểm,0,9.01,0.6,Không được hỗ trợ
+DN400,Cơ khí,Nhỏ,Không đăng ký,,Không có điểm,0,15.49,-3.3,Không được hỗ trợ
+DN401,Thương mại – dịch vụ,Nhỏ,Không đăng ký,,Không có điểm,0,5.14,6.6,Không được hỗ trợ
+DN402,Dệt may,Vừa,Không đăng ký,,Không có điểm,0,14.41,0.6,Không được hỗ trợ
+DN403,Cơ khí,Nhỏ,Không đăng ký,,Không có điểm,0,3.48,-12.2,Không được hỗ trợ
+DN404,Cơ khí,Siêu nhỏ,Không đăng ký,,Không có điểm,0,3.52,0.1,Không được hỗ trợ
+DN405,Dệt may,Vừa,Không đăng ký,,Không có điểm,0,23.64,6.0,Không được hỗ trợ
+DN406,Chế biến nông sản,Nhỏ,Không đăng ký,,Không có điểm,0,4.9,3.9,Không được hỗ trợ
+DN407,Cơ khí,Siêu nhỏ,Không đăng ký,,Không có điểm,0,11.87,2.8,Không được hỗ trợ
+DN408,Thương mại – dịch vụ,Siêu nhỏ,Không đăng ký,,Không có điểm,0,7.65,2.5,Không được hỗ trợ
+DN409,Thương mại – dịch vụ,Siêu nhỏ,Không đăng ký,,Không có điểm,0,3.77,4.4,Không được hỗ trợ
+DN410,Công nghệ thông tin,Nhỏ,Không đăng ký,,Không có điểm,0,13.32,16.8,Không được hỗ trợ
+DN411,Công nghệ thông tin,Vừa,Không đăng ký,,Không có điểm,0,23.48,12.7,Không được hỗ trợ
+DN412,Thương mại – dịch vụ,Siêu nhỏ,Không đăng ký,,Không có điểm,0,10.04,4.3,Không được hỗ trợ
+DN413,Cơ khí,Siêu nhỏ,Không đăng ký,,Không có điểm,0,3.08,8.3,Không được hỗ trợ
+DN414,Chế biến nông sản,Vừa,Không đăng ký,,Không có điểm,0,14.43,-3.1,Không được hỗ trợ
+DN415,Thương mại – dịch vụ,Nhỏ,Không đăng ký,,Không có điểm,0,3.67,2.7,Không được hỗ trợ
+DN416,Công nghệ thông tin,Siêu nhỏ,Không đăng ký,,Không có điểm,0,8.16,5.4,Không được hỗ trợ
+DN417,Chế biến nông sản,Siêu nhỏ,Không đăng ký,,Không có điểm,0,6.73,-2.5,Không được hỗ trợ
+DN418,Dệt may,Vừa,Không đăng ký,,Không có điểm,0,8.08,7.5,Không được hỗ trợ
+DN419,Thương mại – dịch vụ,Siêu nhỏ,Không đăng ký,,Không có điểm,0,9.52,1.8,Không được hỗ trợ
+DN420,Cơ khí,Siêu nhỏ,Không đăng ký,,Không có điểm,0,10.02,-4.7,Không được hỗ trợ

@@ -1,0 +1,78 @@
+/* Phòng thực hành Khoa học dữ liệu cho Lãnh đạo Sở – website giả lập phục vụ đào tạo */
+:root{
+  --xanh-dam:#12355B; --xanh:#1F5F99; --xanh-nhat:#E6EFF8; --cam:#C55A11; --cam-nhat:#FCEFE3;
+  --luc:#2E7D4F; --luc-nhat:#E5F3EA; --do:#B03A48; --do-nhat:#F8E5E8; --vang-nhat:#FFF6E3;
+  --xam:#5B6470; --vien:#D6DCE4; --nen:#F5F7FA;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--nen);color:#1C1C1C;font-family:"Segoe UI",Roboto,Arial,sans-serif;font-size:15.5px;line-height:1.6}
+a{color:var(--xanh)}
+.bao{max-width:1180px;margin:0 auto;padding:0 18px}
+.dai-gl{background:var(--do);color:#fff;text-align:center;padding:6px 12px;font-size:13px;font-weight:600}
+header{background:var(--xanh-dam);color:#fff;padding:14px 0}
+header .bao{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.logo{width:52px;height:52px;border-radius:50%;background:var(--cam);display:flex;align-items:center;justify-content:center;font-weight:700;font-size:11px;text-align:center;line-height:1.15;flex:0 0 auto}
+.ten-nho{margin:0;font-size:12.5px;opacity:.85;text-transform:uppercase;letter-spacing:.5px}
+.ten-lon{margin:2px 0 0;font-size:22px;font-weight:700}
+nav{background:#fff;border-bottom:2px solid var(--vien);position:sticky;top:0;z-index:40}
+nav ul{list-style:none;margin:0 auto;padding:0 18px;max-width:1180px;display:flex;flex-wrap:wrap;gap:2px}
+nav a{display:block;padding:10px 13px;color:#333;text-decoration:none;font-size:14.5px;border-bottom:3px solid transparent}
+nav a:hover{background:var(--xanh-nhat)}
+nav a.dang{color:var(--xanh-dam);font-weight:700;border-bottom-color:var(--cam)}
+main{padding:22px 0 46px}
+h1{font-size:26px;color:var(--xanh-dam);margin:0 0 12px}
+h2{font-size:21px;color:var(--xanh-dam);margin:28px 0 10px}
+h3{font-size:17px;color:var(--xanh-dam);margin:18px 0 8px}
+.nho{font-size:13.5px;color:var(--xam)}
+.hop{border-left:5px solid var(--xanh);background:var(--xanh-nhat);padding:12px 16px;border-radius:4px;margin:0 0 16px}
+.hop-do{border-color:var(--do);background:var(--do-nhat)}
+.hop-cam{border-color:var(--cam);background:var(--cam-nhat)}
+.hop-luc{border-color:var(--luc);background:var(--luc-nhat)}
+.the{background:#fff;border:1px solid var(--vien);border-radius:7px;padding:16px 18px;margin:0 0 16px}
+.luoi{display:grid;gap:14px}
+.luoi-2{grid-template-columns:repeat(auto-fit,minmax(320px,1fr))}
+.luoi-3{grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
+.the-bai{background:#fff;border:1px solid var(--vien);border-top:5px solid var(--xanh);border-radius:7px;padding:14px 16px;display:flex;flex-direction:column}
+.the-bai h3{margin:4px 0 6px}
+.the-bai .so{font-size:12.5px;font-weight:700;color:var(--cam);text-transform:uppercase;letter-spacing:.4px}
+.the-bai p{margin:0 0 10px;flex:1}
+.nhan{display:inline-block;font-size:12px;font-weight:600;padding:1px 8px;border-radius:10px;margin:0 4px 4px 0;background:var(--xanh-nhat);color:var(--xanh-dam)}
+.nhan.n1{background:#E6EFF8}.nhan.n2{background:var(--do-nhat);color:var(--do)}.nhan.n3{background:var(--luc-nhat);color:var(--luc)}
+.nhan.n4{background:#EFE7F7;color:#5B3A87}.nhan.n5{background:var(--cam-nhat);color:var(--cam)}
+table{border-collapse:collapse;width:100%;background:#fff;font-size:14px}
+th,td{border:1px solid var(--vien);padding:7px 9px;text-align:left;vertical-align:top}
+th{background:var(--xanh-dam);color:#fff;font-weight:600}
+td.so,th.so{text-align:right;font-variant-numeric:tabular-nums}
+tr.tong td{font-weight:700;background:#F0F3F7}
+.khung-bang{overflow-x:auto;max-height:520px;overflow-y:auto;border:1px solid var(--vien);border-radius:6px}
+.hang-dk{display:flex;gap:12px;flex-wrap:wrap;align-items:flex-end;margin:0 0 12px}
+label{display:block;font-size:13px;color:var(--xam);font-weight:600;margin-bottom:3px}
+select,input[type=text],input[type=number],textarea{font:inherit;padding:7px 9px;border:1px solid var(--vien);border-radius:4px;background:#fff;max-width:100%}
+textarea{width:100%;min-height:74px}
+button,.nut{font:inherit;font-weight:600;background:var(--xanh-dam);color:#fff;border:0;padding:8px 15px;border-radius:4px;cursor:pointer;text-decoration:none;display:inline-block}
+button:hover,.nut:hover{background:#0B2440}
+button.phu,.nut.phu{background:#fff;color:var(--xanh-dam);border:1.5px solid var(--xanh-dam)}
+.hang-nut{display:flex;gap:10px;flex-wrap:wrap;margin:12px 0}
+.bieu-do{background:#fff;border:1px solid var(--vien);border-radius:6px;padding:10px;margin-top:10px}
+.bieu-do svg{width:100%;height:auto;display:block}
+.nhiem-vu{background:#fff;border:1px solid var(--vien);border-left:6px solid var(--xanh);border-radius:6px;padding:14px 16px;margin:0 0 14px}
+.nhiem-vu h3{margin:0 0 6px}
+.kq{margin-top:8px;font-weight:600}
+.kq.dung{color:var(--luc)} .kq.sai{color:var(--do)}
+.giai{display:none;margin-top:8px;background:var(--luc-nhat);border-radius:5px;padding:10px 12px}
+.giai.hien{display:block}
+.so-sanh{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+@media(max-width:700px){.so-sanh{grid-template-columns:1fr}}
+.kem{background:var(--do-nhat);border-radius:6px;padding:10px 12px}
+.tot{background:var(--luc-nhat);border-radius:6px;padding:10px 12px}
+footer{background:var(--xanh-dam);color:#E3EAF2;padding:20px 0;font-size:13.5px;margin-top:34px}
+footer .bao{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+footer b{color:#fff;display:block;margin-bottom:4px}
+.gl-phu{position:fixed;inset:0;z-index:999;background:rgba(18,53,91,.88);display:flex;align-items:center;justify-content:center;padding:18px}
+.gl-hop{background:#fff;max-width:640px;width:100%;border-radius:6px;border-top:7px solid var(--do);padding:22px 24px;max-height:92vh;overflow:auto}
+.gl-hop h2{margin:0 0 10px;color:var(--do)}
+@media(max-width:700px){
+  body{font-size:15px} .ten-lon{font-size:18px} h1{font-size:22px}
+  nav ul{flex-wrap:nowrap;overflow-x:auto} nav a{white-space:nowrap;padding:9px 10px}
+  footer .bao{grid-template-columns:1fr}
+}

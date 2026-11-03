@@ -1,0 +1,289 @@
+﻿ma_du_an,thang,giai_ngan_luy_ke_ty,ty_le_luy_ke_pct,to_cong_tac_gpmb,nguyen_nhan_cham_chinh,quy_mo,giai_doan,giai_ngan_trong_thang_pct
+DA01,5,57.1,10.6,Có (từ T8),Giải phóng mặt bằng,Dự án lớn,T5–T7,2.2
+DA01,6,66.1,12.3,Có (từ T8),Giải phóng mặt bằng,Dự án lớn,T5–T7,1.7
+DA01,7,79.4,14.7,Có (từ T8),Giải phóng mặt bằng,Dự án lớn,T5–T7,2.4
+DA01,8,117.2,21.7,Có (từ T8),Giải phóng mặt bằng,Dự án lớn,T8–T10,7.0
+DA01,9,155.9,28.9,Có (từ T8),Giải phóng mặt bằng,Dự án lớn,T8–T10,7.2
+DA01,10,199.5,37.0,Có (từ T8),Giải phóng mặt bằng,Dự án lớn,T8–T10,8.1
+DA02,5,166.0,20.1,Không,Điều chỉnh thiết kế,Dự án lớn,T5–T7,2.5
+DA02,6,186.7,22.6,Không,Điều chỉnh thiết kế,Dự án lớn,T5–T7,2.5
+DA02,7,216.9,26.2,Không,Điều chỉnh thiết kế,Dự án lớn,T5–T7,3.6
+DA02,8,249.9,30.2,Không,Điều chỉnh thiết kế,Dự án lớn,T8–T10,4.0
+DA02,9,305.1,36.9,Không,Điều chỉnh thiết kế,Dự án lớn,T8–T10,6.7
+DA02,10,353.9,42.8,Không,Điều chỉnh thiết kế,Dự án lớn,T8–T10,5.9
+DA03,5,95.5,11.8,Có (từ T8),Giải phóng mặt bằng,Dự án lớn,T5–T7,2.2
+DA03,6,117.1,14.5,Có (từ T8),Giải phóng mặt bằng,Dự án lớn,T5–T7,2.7
+DA03,7,133.4,16.5,Có (từ T8),Giải phóng mặt bằng,Dự án lớn,T5–T7,2.0
+DA03,8,197.3,24.5,Có (từ T8),Giải phóng mặt bằng,Dự án lớn,T8–T10,8.0
+DA03,9,260.3,32.3,Có (từ T8),Giải phóng mặt bằng,Dự án lớn,T8–T10,7.8
+DA03,10,319.7,39.7,Có (từ T8),Giải phóng mặt bằng,Dự án lớn,T8–T10,7.4
+DA04,5,120.9,20.5,Không,Điều chỉnh thiết kế,Dự án lớn,T5–T7,5.0
+DA04,6,141.4,24.0,Không,Điều chỉnh thiết kế,Dự án lớn,T5–T7,3.5
+DA04,7,170.2,28.9,Không,Điều chỉnh thiết kế,Dự án lớn,T5–T7,4.9
+DA04,8,190.2,32.3,Không,Điều chỉnh thiết kế,Dự án lớn,T8–T10,3.4
+DA04,9,229.8,39.0,Không,Điều chỉnh thiết kế,Dự án lớn,T8–T10,6.7
+DA04,10,250.1,42.4,Không,Điều chỉnh thiết kế,Dự án lớn,T8–T10,3.4
+DA05,5,176.2,22.4,Có (từ T8),Điều chỉnh thiết kế,Dự án lớn,T5–T7,4.5
+DA05,6,207.5,26.4,Có (từ T8),Điều chỉnh thiết kế,Dự án lớn,T5–T7,4.0
+DA05,7,250.3,31.8,Có (từ T8),Điều chỉnh thiết kế,Dự án lớn,T5–T7,5.4
+DA05,8,341.6,43.4,Có (từ T8),Điều chỉnh thiết kế,Dự án lớn,T8–T10,11.6
+DA05,9,415.1,52.7,Có (từ T8),Điều chỉnh thiết kế,Dự án lớn,T8–T10,9.3
+DA05,10,496.3,63.0,Có (từ T8),Điều chỉnh thiết kế,Dự án lớn,T8–T10,10.3
+DA06,5,69.9,11.5,Không,Giải phóng mặt bằng,Dự án lớn,T5–T7,2.2
+DA06,6,83.4,13.7,Không,Giải phóng mặt bằng,Dự án lớn,T5–T7,2.2
+DA06,7,101.7,16.7,Không,Giải phóng mặt bằng,Dự án lớn,T5–T7,3.0
+DA06,8,118.2,19.4,Không,Giải phóng mặt bằng,Dự án lớn,T8–T10,2.7
+DA06,9,145.7,23.9,Không,Giải phóng mặt bằng,Dự án lớn,T8–T10,4.5
+DA06,10,170.9,28.1,Không,Giải phóng mặt bằng,Dự án lớn,T8–T10,4.2
+DA07,5,130.2,18.9,Không,Điều chỉnh thiết kế,Dự án lớn,T5–T7,3.8
+DA07,6,151.7,22.0,Không,Điều chỉnh thiết kế,Dự án lớn,T5–T7,3.1
+DA07,7,192.6,27.9,Không,Điều chỉnh thiết kế,Dự án lớn,T5–T7,5.9
+DA07,8,215.1,31.2,Không,Điều chỉnh thiết kế,Dự án lớn,T8–T10,3.3
+DA07,9,252.6,36.6,Không,Điều chỉnh thiết kế,Dự án lớn,T8–T10,5.4
+DA07,10,297.8,43.2,Không,Điều chỉnh thiết kế,Dự án lớn,T8–T10,6.6
+DA08,5,57.4,11.1,Không,Giải phóng mặt bằng,Dự án lớn,T5–T7,1.7
+DA08,6,67.9,13.1,Không,Giải phóng mặt bằng,Dự án lớn,T5–T7,2.0
+DA08,7,81.6,15.8,Không,Giải phóng mặt bằng,Dự án lớn,T5–T7,2.7
+DA08,8,104.6,20.2,Không,Giải phóng mặt bằng,Dự án lớn,T8–T10,4.4
+DA08,9,126.5,24.5,Không,Giải phóng mặt bằng,Dự án lớn,T8–T10,4.3
+DA08,10,142.4,27.6,Không,Giải phóng mặt bằng,Dự án lớn,T8–T10,3.1
+DA09,5,46.5,42.6,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,6.7
+DA09,6,52.5,48.0,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,5.4
+DA09,7,64.3,58.8,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,10.8
+DA09,8,79.4,72.6,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,13.8
+DA09,9,90.4,82.7,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,10.1
+DA09,10,99.6,91.1,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,8.4
+DA10,5,8.3,28.9,Có (từ T8),Thủ tục thanh toán,Dự án vừa và nhỏ,T5–T7,4.4
+DA10,6,10.4,36.2,Có (từ T8),Thủ tục thanh toán,Dự án vừa và nhỏ,T5–T7,7.3
+DA10,7,12.8,44.5,Có (từ T8),Thủ tục thanh toán,Dự án vừa và nhỏ,T5–T7,8.3
+DA10,8,16.8,58.5,Có (từ T8),Thủ tục thanh toán,Dự án vừa và nhỏ,T8–T10,14.0
+DA10,9,20.8,72.3,Có (từ T8),Thủ tục thanh toán,Dự án vừa và nhỏ,T8–T10,13.8
+DA10,10,23.5,81.7,Có (từ T8),Thủ tục thanh toán,Dự án vừa và nhỏ,T8–T10,9.4
+DA11,5,27.1,41.2,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,6.0
+DA11,6,31.2,47.4,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,6.2
+DA11,7,37.8,57.5,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,10.1
+DA11,8,46.4,70.6,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,13.1
+DA11,9,53.6,81.5,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,10.9
+DA11,10,63.5,96.5,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,15.0
+DA12,5,30.1,37.9,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,10.5
+DA12,6,35.2,44.3,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,6.4
+DA12,7,46.7,58.8,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,14.5
+DA12,8,55.6,70.1,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,11.3
+DA12,9,63.0,79.3,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,9.2
+DA12,10,72.1,90.8,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,11.5
+DA13,5,5.8,11.4,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,1.6
+DA13,6,7.0,13.7,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,2.3
+DA13,7,7.9,15.5,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,1.8
+DA13,8,10.1,19.9,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,4.4
+DA13,9,12.1,23.9,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,4.0
+DA13,10,14.3,28.1,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,4.2
+DA14,5,10.6,9.6,Có (từ T8),Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,1.4
+DA14,6,13.7,12.5,Có (từ T8),Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,2.9
+DA14,7,15.8,14.3,Có (từ T8),Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,1.8
+DA14,8,24.9,22.6,Có (từ T8),Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,8.3
+DA14,9,33.1,30.1,Có (từ T8),Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,7.5
+DA14,10,41.6,37.8,Có (từ T8),Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,7.7
+DA15,5,23.5,45.0,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,7.5
+DA15,6,26.2,50.1,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,5.1
+DA15,7,32.4,62.0,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,11.9
+DA15,8,39.1,74.8,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,12.8
+DA15,9,46.7,89.4,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,14.6
+DA15,10,52.2,99.9,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,10.5
+DA16,5,40.3,35.1,Không,Thủ tục thanh toán,Dự án vừa và nhỏ,T5–T7,7.4
+DA16,6,48.7,42.3,Không,Thủ tục thanh toán,Dự án vừa và nhỏ,T5–T7,7.2
+DA16,7,60.1,52.2,Không,Thủ tục thanh toán,Dự án vừa và nhỏ,T5–T7,9.9
+DA16,8,71.6,62.3,Không,Thủ tục thanh toán,Dự án vừa và nhỏ,T8–T10,10.1
+DA16,9,79.7,69.3,Không,Thủ tục thanh toán,Dự án vừa và nhỏ,T8–T10,7.0
+DA16,10,86.2,74.9,Không,Thủ tục thanh toán,Dự án vừa và nhỏ,T8–T10,5.6
+DA17,5,6.8,10.5,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,2.4
+DA17,6,7.8,12.0,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,1.5
+DA17,7,9.3,14.3,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,2.3
+DA17,8,12.2,18.8,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,4.5
+DA17,9,13.9,21.5,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,2.7
+DA17,10,16.0,24.6,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,3.1
+DA18,5,46.6,38.9,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,5.9
+DA18,6,60.2,50.3,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,11.4
+DA18,7,77.5,64.7,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,14.4
+DA18,8,87.6,73.1,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,8.4
+DA18,9,105.9,88.4,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,15.3
+DA18,10,114.4,95.5,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,7.1
+DA19,5,42.2,41.4,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,6.8
+DA19,6,47.9,46.9,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,5.5
+DA19,7,56.9,55.7,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,8.8
+DA19,8,68.6,67.2,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,11.5
+DA19,9,77.7,76.1,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,8.9
+DA19,10,91.9,90.0,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,13.9
+DA20,5,12.1,43.1,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,6.8
+DA20,6,14.6,51.8,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,8.7
+DA20,7,17.5,62.2,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,10.4
+DA20,8,19.9,70.7,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,8.5
+DA20,9,23.7,84.1,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,13.4
+DA20,10,28.0,99.5,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,15.4
+DA21,5,22.0,21.1,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T5–T7,3.3
+DA21,6,25.9,24.9,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T5–T7,3.8
+DA21,7,33.7,32.4,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T5–T7,7.5
+DA21,8,41.3,39.7,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T8–T10,7.3
+DA21,9,48.1,46.2,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T8–T10,6.5
+DA21,10,55.7,53.5,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T8–T10,7.3
+DA22,5,24.4,38.7,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,9.4
+DA22,6,30.9,49.0,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,10.3
+DA22,7,40.3,63.9,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,14.9
+DA22,8,49.5,78.5,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,14.6
+DA22,9,55.9,88.8,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,10.3
+DA22,10,61.3,97.2,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,8.4
+DA23,5,10.6,10.1,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,2.1
+DA23,6,13.7,13.0,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,2.9
+DA23,7,16.9,16.0,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,3.0
+DA23,8,19.7,18.6,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,2.6
+DA23,9,22.6,21.4,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,2.8
+DA23,10,26.4,24.9,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,3.5
+DA24,5,10.4,19.8,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T5–T7,3.1
+DA24,6,11.9,22.6,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T5–T7,2.8
+DA24,7,16.1,30.6,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T5–T7,8.0
+DA24,8,19.3,36.5,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T8–T10,5.9
+DA24,9,22.2,42.2,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T8–T10,5.7
+DA24,10,25.2,47.9,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T8–T10,5.7
+DA25,5,44.8,37.4,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,8.1
+DA25,6,56.6,47.2,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,9.8
+DA25,7,67.1,56.0,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,8.8
+DA25,8,84.6,70.6,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,14.6
+DA25,9,94.1,78.5,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,7.9
+DA25,10,107.2,89.4,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,10.9
+DA26,5,23.0,44.7,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,10.5
+DA26,6,28.7,55.9,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,11.2
+DA26,7,33.8,65.8,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,9.9
+DA26,8,40.1,78.1,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,12.3
+DA26,9,44.5,86.5,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,8.4
+DA26,10,51.3,99.9,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,13.4
+DA27,5,13.1,11.9,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,1.5
+DA27,6,15.2,13.9,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,2.0
+DA27,7,17.5,15.9,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,2.0
+DA27,8,21.3,19.4,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,3.5
+DA27,9,25.6,23.3,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,3.9
+DA27,10,29.5,26.9,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,3.6
+DA28,5,39.1,42.6,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,10.7
+DA28,6,45.1,49.2,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,6.6
+DA28,7,53.3,58.1,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,8.9
+DA28,8,63.3,68.9,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,10.8
+DA28,9,71.2,77.5,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,8.6
+DA28,10,85.3,92.9,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,15.4
+DA29,5,5.0,20.5,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T5–T7,3.5
+DA29,6,5.7,23.3,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T5–T7,2.8
+DA29,7,7.0,28.4,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T5–T7,5.1
+DA29,8,8.9,36.4,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T8–T10,8.0
+DA29,9,10.4,42.5,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T8–T10,6.1
+DA29,10,12.1,49.2,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T8–T10,6.7
+DA30,5,14.9,47.3,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,10.4
+DA30,6,16.8,53.1,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,5.8
+DA30,7,20.7,65.4,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,12.3
+DA30,8,23.5,74.4,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,9.0
+DA30,9,28.3,89.5,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,15.1
+DA30,10,31.6,100.0,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,10.5
+DA31,5,16.7,24.3,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T5–T7,2.9
+DA31,6,20.8,30.3,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T5–T7,6.0
+DA31,7,24.3,35.3,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T5–T7,5.0
+DA31,8,27.6,40.1,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T8–T10,4.8
+DA31,9,32.3,47.0,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T8–T10,6.9
+DA31,10,35.6,51.7,Không,Năng lực nhà thầu,Dự án vừa và nhỏ,T8–T10,4.7
+DA32,5,50.7,42.6,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,10.5
+DA32,6,56.9,47.7,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,5.1
+DA32,7,66.3,55.6,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,7.9
+DA32,8,80.6,67.6,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,12.0
+DA32,9,92.6,77.7,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,10.1
+DA32,10,104.8,87.9,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,10.2
+DA33,5,8.4,11.6,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,2.8
+DA33,6,10.0,13.9,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,2.3
+DA33,7,12.0,16.7,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,2.8
+DA33,8,14.0,19.5,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,2.8
+DA33,9,17.1,23.7,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,4.2
+DA33,10,19.9,27.6,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,3.9
+DA34,5,25.7,38.3,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,5.8
+DA34,6,29.9,44.6,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,6.3
+DA34,7,35.9,53.5,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,8.9
+DA34,8,40.4,60.3,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,6.8
+DA34,9,50.3,75.0,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,14.7
+DA34,10,56.5,84.2,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,9.2
+DA35,5,10.4,10.2,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,2.7
+DA35,6,12.8,12.6,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,2.4
+DA35,7,15.3,15.0,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,2.4
+DA35,8,19.3,19.0,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,4.0
+DA35,9,22.5,22.1,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,3.1
+DA35,10,25.1,24.7,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,2.6
+DA36,5,6.0,9.3,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,1.8
+DA36,6,7.7,12.0,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,2.7
+DA36,7,9.8,15.3,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,3.3
+DA36,8,11.7,18.3,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,3.0
+DA36,9,14.3,22.3,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,4.0
+DA36,10,17.0,26.6,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,4.3
+DA37,5,28.0,46.6,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,8.5
+DA37,6,32.4,53.9,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,7.3
+DA37,7,40.9,68.2,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,14.3
+DA37,8,49.9,83.2,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,15.0
+DA37,9,56.6,94.3,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,11.1
+DA37,10,60.0,100.0,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,5.7
+DA38,5,36.3,39.8,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,6.5
+DA38,6,42.3,46.3,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,6.5
+DA38,7,54.4,59.6,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,13.3
+DA38,8,62.3,68.2,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,8.6
+DA38,9,70.6,77.4,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,9.2
+DA38,10,84.2,92.2,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,14.8
+DA39,5,9.9,11.5,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,2.3
+DA39,6,11.8,13.7,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,2.2
+DA39,7,13.6,15.9,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,2.2
+DA39,8,16.9,19.6,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,3.7
+DA39,9,19.4,22.5,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,2.9
+DA39,10,21.5,25.0,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,2.5
+DA40,5,9.0,44.2,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,9.5
+DA40,6,10.2,50.4,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,6.2
+DA40,7,11.7,57.7,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,7.3
+DA40,8,14.4,70.7,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,13.0
+DA40,9,17.2,84.7,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,14.0
+DA40,10,20.3,100.0,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,15.3
+DA41,5,1.8,10.4,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,3.1
+DA41,6,2.2,12.6,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,2.2
+DA41,7,2.9,16.6,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,4.0
+DA41,8,3.6,20.2,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,3.6
+DA41,9,4.1,23.4,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,3.2
+DA41,10,4.8,26.9,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,3.5
+DA42,5,10.1,11.2,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,2.1
+DA42,6,11.6,12.9,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,1.7
+DA42,7,13.3,14.7,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T5–T7,1.8
+DA42,8,16.6,18.4,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,3.7
+DA42,9,20.5,22.8,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,4.4
+DA42,10,22.7,25.2,Không,Giải phóng mặt bằng,Dự án vừa và nhỏ,T8–T10,2.4
+DA43,5,14.6,48.4,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,10.3
+DA43,6,16.4,54.6,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,6.2
+DA43,7,20.2,67.1,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,12.5
+DA43,8,23.8,79.2,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,12.1
+DA43,9,26.4,87.9,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,8.7
+DA43,10,30.1,100.0,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,12.1
+DA44,5,21.4,45.9,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,8.0
+DA44,6,26.0,55.7,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,9.8
+DA44,7,30.1,64.4,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,8.7
+DA44,8,33.3,71.2,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,6.8
+DA44,9,36.9,79.1,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,7.9
+DA44,10,43.0,92.0,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,12.9
+DA45,5,15.4,28.6,Không,Thủ tục thanh toán,Dự án vừa và nhỏ,T5–T7,6.1
+DA45,6,18.9,35.1,Không,Thủ tục thanh toán,Dự án vừa và nhỏ,T5–T7,6.5
+DA45,7,24.0,44.6,Không,Thủ tục thanh toán,Dự án vừa và nhỏ,T5–T7,9.5
+DA45,8,27.2,50.5,Không,Thủ tục thanh toán,Dự án vừa và nhỏ,T8–T10,5.9
+DA45,9,32.4,60.1,Không,Thủ tục thanh toán,Dự án vừa và nhỏ,T8–T10,9.6
+DA45,10,38.2,71.0,Không,Thủ tục thanh toán,Dự án vừa và nhỏ,T8–T10,10.9
+DA46,5,39.4,45.4,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,11.9
+DA46,6,46.4,53.5,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,8.1
+DA46,7,57.8,66.6,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,13.1
+DA46,8,66.2,76.2,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,9.6
+DA46,9,77.9,89.7,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,13.5
+DA46,10,86.8,100.0,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,10.3
+DA47,5,46.4,47.2,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,11.4
+DA47,6,51.7,52.6,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,5.4
+DA47,7,64.8,65.9,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,13.3
+DA47,8,72.9,74.2,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,8.3
+DA47,9,87.3,88.8,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,14.6
+DA47,10,98.3,100.0,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,11.2
+DA48,5,32.9,41.2,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,6.8
+DA48,6,41.1,51.5,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,10.3
+DA48,7,48.7,61.0,Không,Không vướng,Dự án vừa và nhỏ,T5–T7,9.5
+DA48,8,56.5,70.9,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,9.9
+DA48,9,67.1,84.0,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,13.1
+DA48,10,79.0,99.0,Không,Không vướng,Dự án vừa và nhỏ,T8–T10,15.0

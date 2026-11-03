@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Đặt bài toán đúng — Phòng thực hành Khoa học dữ liệu cho Lãnh đạo Sở</title>
+<meta name="robots" content="noindex, nofollow, noarchive">
+<meta property="og:title" content="[GIẢ LẬP – ĐÀO TẠO] Phòng thực hành Khoa học dữ liệu cho Lãnh đạo Sở">
+<meta property="og:description" content="Website giả lập phục vụ đào tạo. Mọi địa danh, cơ quan, số liệu đều hư cấu.">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<script src="assets/app.js"></script>
+<script>khung("dat-bai-toan.html");</script>
+<main class="bao">
+
+  <h1>Đặt bài toán đúng: từ giao việc chung chung đến câu hỏi gắn với quyết định</h1>
+  <div class="hop">Một bài toán dữ liệu tốt trả lời được năm câu: <b>quyết định nào</b> đang chờ số liệu; <b>đo bằng chỉ số nào</b>;
+  <b>phạm vi</b> (thủ tục, địa bàn, nhóm đối tượng); <b>thời hạn</b>; <b>ai chịu trách nhiệm</b> về chất lượng dữ liệu. Thêm một câu nếu là
+  đánh giá biện pháp: <b>so với cái gì</b> (nhóm đối chứng, thời điểm trước)?</div>
+  <h2>Công cụ viết lại yêu cầu</h2>
+  <div class="the">
+    <label for="g0">Yêu cầu ban đầu</label><input id="g0" type="text" style="width:100%" placeholder="ví dụ: Xây dựng bảng điều khiển theo dõi thủ tục hành chính">
+    <div class="luoi luoi-2" style="margin-top:8px">
+      <div><label for="g1">1. Quyết định nào đang chờ số liệu?</label><input id="g1" type="text" style="width:100%" placeholder="điều phối nhân sự thẩm định cuối tháng"></div>
+      <div><label for="g2">2. Đo bằng chỉ số nào?</label><input id="g2" type="text" style="width:100%" placeholder="tỷ lệ trễ hạn, thời gian xử lý, tỷ lệ hồ sơ phải bổ sung"></div>
+      <div><label for="g3">3. Phạm vi</label><input id="g3" type="text" style="width:100%" placeholder="ba thủ tục người dân chờ lâu nhất"></div>
+      <div><label for="g4">4. Thời hạn</label><input id="g4" type="text" style="width:100%" placeholder="báo cáo trước 15/12"></div>
+      <div><label for="g5">5. Ai chịu trách nhiệm dữ liệu?</label><input id="g5" type="text" style="width:100%" placeholder="Văn phòng Sở"></div>
+      <div><label for="g6">6. So với cái gì? (nếu đánh giá biện pháp)</label><input id="g6" type="text" style="width:100%" placeholder="nhóm thủ tục không điều chỉnh"></div>
+    </div>
+    <div class="hang-nut"><button type="button" onclick="viet()">Ghép thành bài toán</button></div>
+    <div class="tot" id="oKQ" style="display:none"></div>
+  </div>
+  <h2>Tám ví dụ theo lĩnh vực</h2>
+  <div id="oVD"></div>
+<script src="assets/baitap.js"></script>
+<script>
+function v(i) { return $("g" + i).value.trim(); }
+function viet() {
+  var t = (v(3) ? "Với " + v(3) + ", " : "") + (v(1) ? "để quyết định " + v(1) + ", " : "") + "phân tích và theo dõi " + (v(2) || "[chỉ số]") +
+    (v(6) ? ", so sánh với " + v(6) : "") + "; " + (v(5) ? v(5) + " chịu trách nhiệm về chất lượng dữ liệu; " : "") + (v(4) || "[thời hạn]") + ".";
+  var thieu = [[1, "quyết định"], [2, "chỉ số"], [4, "thời hạn"], [5, "người chịu trách nhiệm dữ liệu"]].filter(function (x) { return !v(x[0]); }).map(function (x) { return x[1]; });
+  $("oKQ").style.display = "block";
+  $("oKQ").innerHTML = "<b>Bài toán:</b> " + e_(t.charAt(0).toUpperCase() + t.slice(1)) + (thieu.length ? "<p class='nho' style='color:#B03A48'>Còn thiếu: " + thieu.join(", ") + ".</p>" : "");
+}
+$("oVD").innerHTML = BAI.map(function (b) { return "<div class='the'><b>" + e_(b.so) + "</b><div class='so-sanh' style='margin-top:8px'><div class='kem'><b>Chung chung:</b> “" +
+  e_(b.dat_bai_toan.kem) + "”</div><div class='tot'><b>Gắn với quyết định:</b> “" + e_(b.dat_bai_toan.tot) + "”</div></div><p class='nho' style='margin-top:6px'><a href='bai.html?b=" + b.ma + "'>Làm bài tập này →</a></p></div>"; }).join("");
+</script>
+</main>
+<script>chan();</script>
+</body>
+</html>

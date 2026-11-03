@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bài tập — Phòng thực hành Khoa học dữ liệu cho Lãnh đạo Sở</title>
+<meta name="robots" content="noindex, nofollow, noarchive">
+<meta property="og:title" content="[GIẢ LẬP – ĐÀO TẠO] Phòng thực hành Khoa học dữ liệu cho Lãnh đạo Sở">
+<meta property="og:description" content="Website giả lập phục vụ đào tạo. Mọi địa danh, cơ quan, số liệu đều hư cấu.">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<script src="assets/app.js"></script>
+<script>khung("bai.html");</script>
+<main class="bao">
+
+  <div id="oNoiDung"></div>
+<script src="du_lieu/gd_truong_hoc.js"></script>
+<script src="du_lieu/khcn_doanh_nghiep.js"></script>
+<script src="du_lieu/nnmt_co_so_xa_thai.js"></script>
+<script src="du_lieu/nv_xa_phuong.js"></script>
+<script src="du_lieu/tc_du_an.js"></script>
+<script src="du_lieu/tc_giai_ngan_thang.js"></script>
+<script src="du_lieu/tp_ly_lich_tu_phap.js"></script>
+<script src="du_lieu/xd_ho_so.js"></script>
+<script src="du_lieu/yt_ton_kho_hien_tai.js"></script>
+<script src="assets/baitap.js"></script>
+<script>
+var ma = (location.search.match(/[?&]b=([a-z]+)/) || [])[1];
+var BAI_HIEN = BAI.filter(function (b) { return b.ma === ma; })[0];
+if (!BAI_HIEN) {
+  $("oNoiDung").innerHTML = "<h1>Tám bài tập khoa học dữ liệu cho Lãnh đạo Sở</h1><div class='luoi luoi-3'>" + BAI.map(function (b, i) {
+    return "<div class='the-bai'><span class='so'>Bài " + (i + 1) + " · " + b.so + "</span><h3>" + e_(b.ten) + "</h3><p class='nho'>" + e_(b.cau_hoi_dieu_hanh) +
+      "</p><a class='nut' href='bai.html?b=" + b.ma + "'>Làm bài →</a></div>"; }).join("") + "</div>";
+} else { veBai(BAI_HIEN); }
+
+function veBai(b) {
+  var stt = BAI.indexOf(b) + 1, h = "";
+  h += "<p class='nho'><a href='bai.html'>← Tám bài tập</a></p><h1>Bài " + stt + " · " + e_(b.so) + ": " + e_(b.ten) + "</h1>";
+  h += "<div>" + b.nhu_cau.map(function (k) { return "<span class='nhan " + k + "'>" + NHU_CAU[k] + "</span>"; }).join("") + " <span class='nho'>· " + b.thoi_luong + "</span></div>";
+  h += "<div class='hop' style='margin-top:10px'><b>Bối cảnh (giả lập).</b> " + e_(b.boi_canh) + "</div>";
+  h += "<div class='hop hop-cam'><b>Câu hỏi điều hành:</b> " + e_(b.cau_hoi_dieu_hanh) + "</div>";
+  h += "<h2>1. Bảng phân tích</h2><p class='nho'>Chọn cách nhóm, chỉ tiêu và bộ lọc. Mỗi nhiệm vụ có nút “Cấu hình gợi ý” để đặt sẵn bảng. " +
+       "Muốn làm trên bảng tính: <a href='du-lieu.html'>tải tệp CSV</a>.</p><div class='the' id='oCongCu'></div>";
+  h += "<h2>2. Nhiệm vụ</h2>";
+  b.nhiem_vu.forEach(function (n, i) {
+    h += "<div class='nhiem-vu'><span class='nhan " + n.nhu_cau + "'>" + NHU_CAU[n.nhu_cau] + "</span><h3>Nhiệm vụ " + (i + 1) + "</h3><p>" + e_(n.hoi) + "</p>";
+    if (n.kieu === "so") h += "<div class='hang-dk'><div><label>Đáp số" + (n.don_vi ? " (" + e_(n.don_vi) + ")" : "") + "</label><input type='text' id='tl_" + i + "' inputmode='decimal' placeholder='ví dụ 12,5'></div>";
+    else h += "<div>" + n.lua_chon.map(function (c) { return "<label style='font-weight:400;color:#1C1C1C'><input type='radio' name='tl_" + i + "' value='" + e_(c) + "'> " + e_(c) + "</label>"; }).join("") + "</div><div class='hang-dk'>";
+    h += "<div><button type='button' onclick='kiemTra(BAI_HIEN," + i + ")'>Kiểm tra</button></div><div><button type='button' class='phu' onclick='CC.datCauHinh(BAI_HIEN.nhiem_vu[" + i + "].cau_hinh)'>Cấu hình gợi ý</button></div>" +
+         "<div><button type='button' class='phu' onclick='xemDapAn(" + i + ")'>Xem đáp án</button></div></div><div class='kq' id='kq_" + i + "'></div>" +
+         "<div class='giai' id='giai_" + i + "'><b>Giải thích:</b> " + e_(n.giai) + "</div></div>";
+  });
+  h += "<h2>3. Đặt bài toán đúng</h2><div class='the'><p>Yêu cầu giao việc thường gặp:</p><div class='kem'>“" + e_(b.dat_bai_toan.kem) + "”</div>" +
+       "<label for='tBT' style='margin-top:10px'>Nhóm viết lại thành bài toán cụ thể (quyết định gì · chỉ số nào · thời hạn · ai chịu trách nhiệm dữ liệu)</label><textarea id='tBT'></textarea>" +
+       "<div class='hang-nut'><button type='button' class='phu' onclick=\"$('oBTMau').style.display='block'\">Xem cách viết tham khảo</button></div>" +
+       "<div class='tot' id='oBTMau' style='display:none'>“" + e_(b.dat_bai_toan.tot) + "”</div></div>";
+  h += "<h2>4. Phiếu quyết định của lãnh đạo</h2><div class='the'><p>Chọn một phương án và ghi căn cứ:</p>" +
+       b.quyet_dinh.map(function (q, j) { return "<label style='font-weight:400;color:#1C1C1C'><input type='radio' name='qd' value='" + j + "'> " + e_(q) + "</label>"; }).join("") +
+       "<label for='tLD' style='margin-top:10px'>Căn cứ số liệu (trích từ các nhiệm vụ)</label><textarea id='tLD'></textarea>" +
+       "<label for='tCS'>Chỉ số sẽ theo dõi để biết quyết định có hiệu quả</label><textarea id='tCS'></textarea>" +
+       "<label for='tRR'>Rủi ro, điều cần kiểm chứng thêm trước khi trình</label><textarea id='tRR'></textarea>" +
+       "<div class='hang-nut'><button type='button' onclick='taiPhieu()'>Tải phiếu quyết định (Word)</button></div></div>";
+  $("oNoiDung").innerHTML = h;
+  window.CC = new CongCu($("oCongCu"), b);
+  ["tBT", "tLD", "tCS", "tRR"].forEach(function (k) { $(k).value = docLS(b.ma + "_" + k) || ""; $(k).oninput = function () { ghiLS(b.ma + "_" + k, this.value); }; });
+  var q = docLS(b.ma + "_qd"); if (q !== null) { var r = document.querySelector("input[name=qd][value='" + q + "']"); if (r) r.checked = true; }
+  Array.prototype.forEach.call(document.querySelectorAll("input[name=qd]"), function (r) { r.onchange = function () { ghiLS(b.ma + "_qd", this.value); }; });
+}
+function taiPhieu() {
+  var b = BAI_HIEN, q = document.querySelector("input[name=qd]:checked");
+  var h = "<html><head><meta charset='utf-8'><style>body{font-family:'Times New Roman';font-size:13pt}</style></head><body>" +
+    "<p style='color:#B03A48'><b>Bài tập giả lập – số liệu hư cấu</b></p><h2>Phiếu quyết định – " + e_(b.so) + "</h2><p><b>Bài:</b> " + e_(b.ten) + "</p>" +
+    "<p><b>Bài toán đã đặt:</b><br>" + e_($("tBT").value).replace(/\n/g, "<br>") + "</p><p><b>Phương án chọn:</b> " + (q ? e_(b.quyet_dinh[Number(q.value)]) : "(chưa chọn)") + "</p>" +
+    "<p><b>Căn cứ số liệu:</b><br>" + e_($("tLD").value).replace(/\n/g, "<br>") + "</p><p><b>Chỉ số theo dõi:</b><br>" + e_($("tCS").value).replace(/\n/g, "<br>") +
+    "</p><p><b>Rủi ro, điều cần kiểm chứng:</b><br>" + e_($("tRR").value).replace(/\n/g, "<br>") + "</p></body></html>";
+  var a = document.createElement("a"); a.href = URL.createObjectURL(new Blob(["\ufeff" + h], { type: "application/msword" }));
+  a.download = "phieu_quyet_dinh_" + b.ma + ".doc"; document.body.appendChild(a); a.click(); document.body.removeChild(a);
+}
+</script>
+</main>
+<script>chan();</script>
+</body>
+</html>
