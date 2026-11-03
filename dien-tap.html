@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Diễn tập xử lý sự cố — Cổng Dịch vụ công giả lập</title>
+<!-- congkhai -->
+<meta name="robots" content="noindex, nofollow, noarchive">
+<meta name="googlebot" content="noindex, nofollow">
+<meta name="description" content="Dien tap xu ly su co khi dung AI cho lanh dao. Tinh huong hu cau.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="[GIẢ LẬP – ĐÀO TẠO] Diễn tập xử lý sự cố khi dùng AI">
+<meta property="og:description" content="Tình huống hư cấu dùng cho diễn tập. Không phải sự việc thật.">
+<meta property="og:locale" content="vi_VN">
+<!-- congkhai -->
+<link rel="stylesheet" href="css/style.css">
+<style>
+.dh{font-size:46px;font-weight:bold;color:var(--xanh);font-variant-numeric:tabular-nums;line-height:1}
+.dh.gan{color:var(--do)}
+.pha{display:inline-block;padding:3px 12px;border-radius:12px;background:var(--xanh-nhat);font-weight:bold;color:var(--xanh)}
+.tin{border-left:5px solid var(--cam);background:var(--vang-nhat);padding:10px 14px;margin:10px 0;border-radius:4px;font-weight:bold}
+.tin.an{display:none}
+.tin.moi{animation:nhay 1s 3}
+@keyframes nhay{50%{background:#ffd9b3}}
+.tl label{font-weight:bold;color:var(--xanh);display:block;margin:12px 0 4px}
+.tl textarea{width:100%;min-height:78px;font:inherit;padding:8px;border:1px solid var(--vien);border-radius:4px}
+.bang-buoc input{width:100%;font:inherit;padding:5px;border:1px solid var(--vien);border-radius:3px}
+.bang-buoc td{vertical-align:top}
+.cv{background:var(--do-nhat);border:1px solid var(--do);border-radius:6px;padding:12px 16px;margin:12px 0}
+.cv li{margin-bottom:6px;font-weight:bold}
+@media(max-width:700px){.dh{font-size:36px}}
+</style>
+</head>
+<body>
+<script src="js/chung.js"></script>
+<script>khungTrang("thuc-hanh.html");</script>
+
+<main>
+  <h1>Diễn tập xử lý sự cố khi dùng AI – dành cho lãnh đạo</h1>
+  <div class="hop hop-do">
+    <b>Mọi tình huống trên trang đều là hư cấu</b>, dựng riêng cho diễn tập: tên cơ quan “tỉnh Minh Khê”, “phường An Thịnh”,
+    số liệu, sự việc không có thật. Trang không gửi nội dung nhóm nhập đi đâu; phần trả lời chỉ lưu trong trình duyệt
+    của máy đang dùng, bấm “Tải phiếu của nhóm” để giữ lại.
+  </div>
+
+  <div class="hop hop-xanh">
+    <b>Luật chơi (20 phút).</b> Mỗi nhóm nhận một tình huống và đóng vai <b>lãnh đạo đơn vị</b>.
+    <b>8 phút</b> chuẩn bị trả lời bốn câu hỏi – ở phút thứ 3 và thứ 6 sẽ có <b>tin bổ sung</b> làm tình hình phức tạp hơn.
+    Sau đó mỗi nhóm <b>trình bày 3 phút</b>, các nhóm khác <b>chất vấn</b>. Cuối cùng ghi lại những chỗ quy chế của nhóm chưa xử lý được.
+  </div>
+
+  <h2>1. Nhận tình huống</h2>
+  <div class="the">
+    <div class="tron">
+      <div><label for="cbKB">Chọn tình huống</label><select id="cbKB" onchange="chon(this.value)"></select></div>
+      <div style="flex:0 0 auto"><button type="button" onclick="bocTham()">🎲 Bốc thăm ngẫu nhiên</button></div>
+    </div>
+    <div id="oKB" style="margin-top:14px"></div>
+  </div>
+
+  <h2>2. Đồng hồ diễn tập</h2>
+  <div class="the">
+    <div class="tron" style="align-items:center">
+      <div style="flex:0 0 auto"><span class="pha" id="nhanPha">Chưa bắt đầu</span><div class="dh" id="dh">08:00</div></div>
+      <div class="hang-nut" style="margin:0">
+        <button type="button" onclick="batDau('chuan_bi')">▶ Bắt đầu 8 phút chuẩn bị</button>
+        <button type="button" class="phu" onclick="batDau('trinh_bay')">▶ Trình bày 3 phút</button>
+        <button type="button" class="phu" onclick="chatVan()">❓ Chất vấn</button>
+        <button type="button" class="phu" onclick="dung()">■ Dừng</button>
+      </div>
+    </div>
+    <div class="tin an" id="tin1"></div>
+    <div class="tin an" id="tin2"></div>
+    <div class="cv" id="oCV" style="display:none"></div>
+    <p class="nho">Giảng viên có thể chiếu trang này lên màn hình chung. Tin bổ sung tự hiện ở phút thứ 3 và thứ 6;
+    bấm “Hiện ngay” nếu muốn tung sớm: <a href="javascript:hienTin(1)">tin 1</a> · <a href="javascript:hienTin(2)">tin 2</a>.</p>
+  </div>
+
+  <h2>3. Phiếu trả lời của nhóm</h2>
+  <div class="the tl">
+    <div class="tron">
+      <div><label for="tNhom">Tên nhóm</label><input id="tNhom" type="text" style="width:100%" oninput="luu()"></div>
+    </div>
+    <div id="oCauHoi"></div>
+    <label>Quy trình năm bước của nhóm (ai làm – làm gì – trong bao lâu)</label>
+    <div class="cuon" style="max-height:none"><table class="bang-buoc"><thead><tr><th>Bước</th><th>Ai làm (chức danh)</th><th>Làm gì</th><th>Trong bao lâu</th></tr></thead><tbody id="oBuoc"></tbody></table></div>
+    <label for="tLoHong">Những chỗ quy chế của nhóm chưa xử lý được (ghi sau phần chất vấn)</label>
+    <textarea id="tLoHong" oninput="luu()"></textarea>
+    <div class="hang-nut">
+      <button type="button" onclick="taiPhieu()">⬇ Tải phiếu của nhóm (Word)</button>
+      <button type="button" class="phu" onclick="xoaPhieu()">Xoá phần đã nhập</button>
+    </div>
+  </div>
+
+  <h2>4. Mẫu và tài liệu</h2>
+  <div class="hang-nut">
+    <a class="nut" href="tai_ve/17_phieu_tinh_huong_dien_tap.pdf" download>Phiếu 8 tình huống (PDF)</a>
+    <a class="nut" style="background:#fff;color:var(--cam);border:1.5px solid var(--cam)" href="tai_ve/18_mau_quy_trinh_xu_ly_su_co.docx" download>Mẫu quy trình một trang</a>
+    <a class="nut" style="background:#fff;color:var(--cam);border:1.5px solid var(--cam)" href="tai_ve/19_mau_thong_bao_cai_chinh.docx" download>Mẫu thông báo cải chính</a>
+  </div>
+  <div class="hop hop-vang">
+    <b>Bốn điều một thông báo cải chính phải có:</b> nói rõ cái <b>sai</b>, nói rõ cái <b>đúng</b>, nói <b>ai bị ảnh hưởng</b>,
+    nói <b>đã làm gì</b>. Không viết vòng vo, không đổ lỗi cho “hệ thống” hay “nhà cung cấp”.
+    <br><b>Hai câu chất vấn thường làm lộ lỗ hổng lớn nhất:</b> người phụ trách đi công tác, và sự cố xảy ra chiều thứ Sáu –
+    quy chế chỉ chạy được trong điều kiện lý tưởng.
+  </div>
+</main>
+
+<script>
+var KB = [{"ma": "S1", "ten": "Trợ lý ảo trả lời sai lệ phí và hồ sơ", "loai": "Hệ thống AI đưa kết quả sai ảnh hưởng quyền lợi người dân", "vai_tro": "Chủ tịch UBND phường An Thịnh (giả lập) và tổ giúp việc", "boi_canh": "Phường đang thí điểm trợ lý ảo giải đáp thủ tục hành chính trên trang thông tin điện tử. Ngày 05/11, nhà cung cấp cập nhật phiên bản mới.", "dien_bien": ["Thứ Tư 05/11: cập nhật phiên bản mới của trợ lý ảo.", "Thứ Sáu 07/11, 15:40: một công chức một cửa phát hiện trợ lý ảo trả lời lệ phí đăng ký hộ kinh doanh là 200.000 đồng (đúng: 50.000 đồng, nộp trực tuyến 0 đồng) và yêu cầu thêm “giấy xác nhận của công an khu vực”.", "Nhật ký hệ thống: từ 05/11 đến nay đã có 214 lượt hỏi về thủ tục này.", "Hai người dân đã đến quầy với giấy xác nhận không cần thiết, phải đi lại hai lần."], "bang_chung": "Trích hội thoại: “Lệ phí đăng ký hộ kinh doanh là 200.000 đồng. Ông/bà cần chuẩn bị: giấy đề nghị, căn cước, giấy xác nhận của công an khu vực về nơi kinh doanh…”", "tin_bo_sung": ["Cán bộ được giao quản lý trợ lý ảo đang nghỉ phép, điện thoại không liên lạc được.", "16:30: một nhóm cư dân đăng ảnh chụp câu trả lời lên mạng xã hội, kèm bình luận “phường thu phí sai quy định”."]}, {"ma": "S2", "ten": "Dữ liệu hộ nghèo bị đưa lên công cụ AI công cộng", "loai": "Cán bộ đưa dữ liệu cá nhân của người dân lên công cụ công cộng", "vai_tro": "Giám đốc Sở Y tế tỉnh Minh Khê (giả lập) và lãnh đạo các phòng", "boi_canh": "Sở đang tổng hợp danh sách hỗ trợ thẻ bảo hiểm y tế cho hộ nghèo, cận nghèo.", "dien_bien": ["Thứ Năm 06/11: một chuyên viên dán danh sách 312 người (họ tên, số căn cước, số điện thoại, địa chỉ) vào một công cụ trò chuyện AI công cộng, tài khoản cá nhân, để “sắp xếp lại bảng cho nhanh”.", "Thứ Sáu 07/11, 10:15: bộ phận công nghệ thông tin phát hiện qua nhật ký truy cập mạng, báo Chánh Văn phòng Sở.", "Chuyên viên xác nhận đã làm như vậy, chưa xoá lịch sử trò chuyện."], "bang_chung": "Nhật ký: 06/11 14:22–14:41, máy trạm P.Nghiệp vụ Y, tải lên 3 đoạn văn bản dài tới dịch vụ AI công cộng.", "tin_bo_sung": ["Lãnh đạo phòng phụ trách chuyên viên này đang đi công tác Trung ương đến thứ Hai.", "Chuyên viên hỏi: “Em xoá lịch sử trò chuyện là xong phải không ạ?”"]}, {"ma": "S3", "ten": "Kế hoạch đã ban hành viện dẫn văn bản không tồn tại", "loai": "Văn bản đã ban hành có thông tin sai do AI tạo", "vai_tro": "Giám đốc Sở Nội vụ tỉnh Minh Khê (giả lập)", "boi_canh": "Sở vừa ban hành Kế hoạch tập huấn chuyển đổi số cho cán bộ xã, phường; dự thảo do chuyên viên soạn có dùng AI.", "dien_bien": ["Thứ Ba 04/11: Kế hoạch được ký ban hành, gửi 96 xã, phường và đăng trên trang thông tin điện tử của Sở.", "Thứ Sáu 07/11, 14:00: một phường gọi điện hỏi “Thông tư 15/2025/TT-BTTTT” ở phần căn cứ – tra không thấy.", "Kiểm tra lại: văn bản này không tồn tại; số liệu “85% cán bộ đã có chứng chỉ” ở mục I cũng không rõ nguồn."], "bang_chung": "Phần căn cứ: “Thông tư số 15/2025/TT-BTTTT ngày 20/8/2025 của Bộ Thông tin và Truyền thông hướng dẫn…”", "tin_bo_sung": ["Người ký Kế hoạch (Phó Giám đốc) đang dự hội nghị tại tỉnh khác.", "Đã có 11 xã, phường sao y Kế hoạch và ban hành kế hoạch riêng có viện dẫn lại căn cứ sai."]}, {"ma": "S4", "ten": "Áp phích tuyên truyền do AI vẽ bị chế giễu", "loai": "Ấn phẩm truyền thông do AI tạo bị phản ứng tiêu cực", "vai_tro": "Giám đốc Sở Văn hoá, Thể thao và Du lịch tỉnh Minh Khê (giả lập)", "boi_canh": "Sở đăng bộ áp phích chào mừng ngày hội văn hoá các dân tộc của tỉnh; hình ảnh do AI tạo, không gắn nhãn.", "dien_bien": ["Thứ Sáu 07/11, 09:00: đăng 6 áp phích lên trang thông tin điện tử và trang mạng xã hội của Sở.", "11:30: người dùng chỉ ra trang phục dân tộc trong ảnh bị vẽ sai, lẫn trang phục của nước ngoài; một người có 6 ngón tay.", "14:00: bài đăng có hơn 3.000 lượt chia sẻ, nhiều bình luận chế giễu."], "bang_chung": "Bình luận được ghim nhiều nhất: “Sở Văn hoá mà không biết trang phục dân tộc mình à? Ảnh AI à?”", "tin_bo_sung": ["Cán bộ quản trị trang mạng xã hội đang đi tập huấn, chỉ có một người khác biết mật khẩu.", "Một tờ báo điện tử gửi câu hỏi qua thư điện tử, đề nghị trả lời trước 17:00."]}, {"ma": "S5", "ten": "Giọng nói giả của Giám đốc yêu cầu chuyển tiền", "loai": "Nội dung giả mạo bằng AI nhắm vào đơn vị (loại bổ sung)", "vai_tro": "Ban Giám đốc Sở Tài chính tỉnh Minh Khê (giả lập)", "boi_canh": "Kẻ gian dùng AI nhân bản giọng nói của Giám đốc Sở từ các video phát biểu công khai.", "dien_bien": ["Thứ Sáu 07/11, 16:50: kế toán trưởng một đơn vị sự nghiệp trực thuộc nhận cuộc gọi “của Giám đốc Sở”, giọng rất giống, yêu cầu chuyển gấp 480 triệu đồng tạm ứng cho một “đối tác” để kịp trước khi kho bạc nghỉ.", "16:58: kế toán trưởng lập uỷ nhiệm chi, gọi lại số máy lạ thì không liên lạc được, bèn báo Phó Giám đốc Sở.", "Tiền chưa chuyển."], "bang_chung": "Ghi âm cuộc gọi 2 phút 14 giây; số máy gọi đến không thuộc danh bạ cơ quan.", "tin_bo_sung": ["Giám đốc Sở thật đang trên máy bay, 2 giờ nữa mới hạ cánh.", "Hai đơn vị trực thuộc khác báo cũng vừa nhận cuộc gọi tương tự."]}, {"ma": "S6", "ten": "AI phân loại nhầm phản ánh khẩn cấp", "loai": "Hệ thống AI đưa kết quả sai ảnh hưởng quyền lợi người dân", "vai_tro": "Giám đốc Sở Xây dựng tỉnh Minh Khê (giả lập)", "boi_canh": "Hệ thống tiếp nhận phản ánh dùng AI tự gán mức độ “khẩn / thường” và chuyển cho đơn vị xử lý; phản ánh “thường” xử lý trong 5 ngày.", "dien_bien": ["Thứ Tư 05/11: người dân phản ánh dây điện chiếu sáng công cộng bị hở gần cổng trường học; AI gán mức “thường”.", "Thứ Sáu 07/11, 07:20: một học sinh bị điện giật nhẹ, đã được sơ cứu, sức khoẻ ổn định.", "Rà nhanh: trong tháng có 40 phản ánh chứa từ “điện hở”, “sụt lún”, “cây đổ” bị gán “thường”."], "bang_chung": "Phản ánh PA-2026-08812, độ tin cậy của AI 0,58, không có người duyệt lại vì ngưỡng tự động đặt ở 0,5.", "tin_bo_sung": ["Phó Giám đốc phụ trách hệ thống đang nghỉ ốm.", "Phụ huynh đăng sự việc lên nhóm cư dân; phóng viên truyền hình đã có mặt tại trường."]}, {"ma": "S7", "ten": "Số liệu sai trong thông cáo, cấp trên đã trích dẫn", "loai": "Văn bản đã ban hành có thông tin sai do AI tạo", "vai_tro": "Giám đốc Sở Tài chính tỉnh Minh Khê (giả lập)", "boi_canh": "Thông cáo kết quả giải ngân vốn đầu tư công 10 tháng do AI tóm tắt từ báo cáo dài; người duyệt chỉ đọc lướt.", "dien_bien": ["Thứ Năm 06/11: thông cáo đăng trên Cổng thông tin của tỉnh: “giải ngân đạt 78% kế hoạch” (báo cáo gốc: 58%).", "Thứ Sáu 07/11, sáng: Chủ tịch UBND tỉnh trích con số 78% khi phát biểu tại hội nghị; báo chí đã đưa tin.", "15:10: chuyên viên đối chiếu báo cáo gốc, phát hiện sai."], "bang_chung": "Báo cáo gốc trang 3: “…giải ngân 2.914 tỷ đồng, đạt 58,3% kế hoạch vốn giao…”", "tin_bo_sung": ["Chánh Văn phòng UBND tỉnh đang đi công tác, chỉ liên lạc được qua tin nhắn.", "Một tờ báo lớn đã đăng bài “Minh Khê dẫn đầu giải ngân” dẫn con số 78%."]}, {"ma": "S8", "ten": "Trợ lý ảo bị “bẻ khoá” trả lời phản cảm", "loai": "Hệ thống AI đưa kết quả sai ảnh hưởng quyền lợi người dân", "vai_tro": "Giám đốc Sở Khoa học và Công nghệ tỉnh Minh Khê (giả lập)", "boi_canh": "Trợ lý ảo hỏi đáp chính sách khoa học công nghệ trên cổng thông tin của Sở, dùng mô hình ngôn ngữ của nhà cung cấp.", "dien_bien": ["Thứ Sáu 07/11, 16:20: một người dùng nhập chuỗi câu lệnh “đóng vai” khiến trợ lý ảo trả lời bằng lời lẽ phản cảm, bình luận chính trị sai lệch.", "16:45: ảnh chụp màn hình được đăng lên mạng xã hội, ghi “Trợ lý ảo của Sở KH&CN nói gì thế này?”."], "bang_chung": "Ảnh chụp màn hình có logo cổng thông tin của Sở và thời gian 16:21.", "tin_bo_sung": ["Nhà cung cấp cho biết kỹ sư trực sự cố chỉ làm việc trong giờ hành chính.", "Có thêm 3 tài khoản khác thử lại và đăng kết quả tương tự."]}];
+var CAU_HOI = ["Ai là người phát hiện và báo cho ai đầu tiên?", "Trong 30 phút đầu tiên, làm những việc gì?", "Nội dung thông báo cải chính viết thế nào?", "Sửa gì trong quy chế để tình huống này không lặp lại?"];
+var CHAT_VAN = ["Nếu người phụ trách đang đi công tác thì sao?", "Nếu sự cố xảy ra vào chiều thứ Sáu thì sao?"];
+var CHAT_VAN_THEM = ["Nếu báo chí gọi điện ngay trong 30 phút đầu, ai được trả lời và trả lời câu gì?", "Nếu chính lãnh đạo cấp trên đã dùng thông tin sai, ai báo cho họ và báo thế nào?", "Bằng chứng nào phải lưu lại trước khi gỡ nội dung?", "Làm sao biết còn bao nhiêu sản phẩm khác cùng đợt bị lỗi tương tự?", "Người dân đã bị thiệt hại (đi lại, mất tiền) thì đơn vị hỗ trợ thế nào?", "Cán bộ gây ra sự cố bị xử lý ra sao để lần sau người khác vẫn dám báo cáo sự cố?"];
+var BUOC = [["1. Phát hiện và báo cáo", "Không chờ xác minh xong mới báo"], ["2. Đánh giá mức độ", "Bao nhiêu người bị ảnh hưởng? Có dữ liệu cá nhân không? Nhẹ / vừa / nghiêm trọng"], ["3. Ngăn chặn lan rộng", "Người được uỷ quyền gỡ, tạm dừng ngay – không chờ xin ý kiến nhiều cấp"], ["4. Khắc phục và cải chính", "Nêu rõ nội dung sai và nội dung đúng; thông báo cho người bị ảnh hưởng"], ["5. Rút kinh nghiệm", "Rà các sản phẩm cùng đợt; sửa quy chế; chia sẻ bài học"]];
+var KHOA = "dientap_v1_", HIEN = null, HEN = null, BD = 0, PHA = "", DAI = 0;
+function $(i) { return document.getElementById(i); }
+function e_(s) { return String(s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); }
+function doc(k) { try { return localStorage.getItem(KHOA + k); } catch (e) { return null; } }
+function ghi(k, v) { try { localStorage.setItem(KHOA + k, v); } catch (e) {} }
+
+(function () {
+  var s = $("cbKB");
+  KB.forEach(function (k) { var o = document.createElement("option"); o.value = k.ma; o.textContent = k.ma + " – " + k.ten; s.appendChild(o); });
+  $("oCauHoi").innerHTML = CAU_HOI.map(function (c, i) {
+    return '<label for="cau' + i + '">' + (i + 1) + ". " + e_(c) + '</label><textarea id="cau' + i + '" oninput="luu()"></textarea>'; }).join("");
+  $("oBuoc").innerHTML = BUOC.concat([["Người thay thế khi người phụ trách vắng mặt", ""], ["Ngoài giờ hành chính", ""]]).map(function (b, i) {
+    return "<tr><td><b>" + e_(b[0]) + "</b>" + (b[1] ? '<div class="nho">' + e_(b[1]) + "</div>" : "") + "</td>" +
+      [0, 1, 2].map(function (j) { return '<td><input type="text" id="b' + i + "_" + j + '" oninput="luu()"></td>'; }).join("") + "</tr>"; }).join("");
+  var ma = (location.hash.match(/S\d/) || [doc("ma") || "S1"])[0];
+  chon(ma);
+})();
+
+function chon(ma) {
+  HIEN = KB.filter(function (k) { return k.ma === ma; })[0] || KB[0];
+  $("cbKB").value = HIEN.ma; ghi("ma", HIEN.ma);
+  $("oKB").innerHTML = '<h3 style="margin-top:0">Tình huống ' + HIEN.ma + " – " + e_(HIEN.ten) + "</h3>" +
+    '<p class="nho">Loại sự cố: ' + e_(HIEN.loai) + "</p>" +
+    "<p><b>Vai trò của nhóm:</b> " + e_(HIEN.vai_tro) + "</p><p><b>Bối cảnh.</b> " + e_(HIEN.boi_canh) + "</p>" +
+    "<b>Diễn biến</b><ul>" + HIEN.dien_bien.map(function (x) { return "<li>" + e_(x) + "</li>"; }).join("") + "</ul>" +
+    '<div class="hop" style="background:#F4F6F8;border:1px solid var(--vien)"><b>Bằng chứng:</b> <i>' + e_(HIEN.bang_chung) + "</i></div>";
+  $("tin1").textContent = "📣 Tin bổ sung (phút 3): " + HIEN.tin_bo_sung[0];
+  $("tin2").textContent = "📣 Tin bổ sung (phút 6): " + HIEN.tin_bo_sung[1];
+  $("tin1").className = $("tin2").className = "tin an";
+  $("oCV").style.display = "none";
+  try { history.replaceState(null, "", "#" + HIEN.ma); } catch (e) {}
+  napPhieu();
+}
+function bocTham() { var k = KB[Math.floor(Math.random() * KB.length)]; chon(k.ma); }
+
+function hienTin(n) { var o = $("tin" + n); if (o.className.indexOf("an") >= 0) o.className = "tin moi"; }
+function hienDH(con) {
+  var m = Math.floor(con / 60), s = con % 60;
+  $("dh").textContent = (m < 10 ? "0" : "") + m + ":" + (s < 10 ? "0" : "") + s;
+  $("dh").className = "dh" + (con <= 30 ? " gan" : "");
+}
+function batDau(pha) {
+  dung(); PHA = pha; DAI = pha === "chuan_bi" ? 480 : 180; BD = Date.now();
+  $("nhanPha").textContent = pha === "chuan_bi" ? "Chuẩn bị" : "Trình bày";
+  if (pha === "chuan_bi") { $("tin1").className = $("tin2").className = "tin an"; $("oCV").style.display = "none"; }
+  HEN = setInterval(function () {
+    var da = Math.floor((Date.now() - BD) / 1000), con = Math.max(0, DAI - da);
+    hienDH(con);
+    if (PHA === "chuan_bi" && da >= 180) hienTin(1);
+    if (PHA === "chuan_bi" && da >= 360) hienTin(2);
+    if (con === 0) { dung(); $("nhanPha").textContent = PHA === "chuan_bi" ? "Hết giờ chuẩn bị" : "Hết giờ trình bày"; }
+  }, 250);
+  hienDH(DAI);
+}
+function dung() { if (HEN) clearInterval(HEN); HEN = null; }
+function chatVan() {
+  dung(); $("nhanPha").textContent = "Chất vấn";
+  var them = CHAT_VAN_THEM[Math.floor(Math.random() * CHAT_VAN_THEM.length)];
+  $("oCV").innerHTML = "<b>Các nhóm khác chất vấn:</b><ol>" + CHAT_VAN.concat([them]).map(function (c) {
+    return "<li>" + e_(c) + "</li>"; }).join("") + '</ol><span class="nho">Câu thứ ba do trang bốc ngẫu nhiên – giảng viên có thể thay.</span>';
+  $("oCV").style.display = "block";
+}
+
+function oNhap() { return ["tNhom", "tLoHong"].concat(CAU_HOI.map(function (c, i) { return "cau" + i; }))
+  .concat([].concat.apply([], [0, 1, 2, 3, 4, 5, 6].map(function (i) { return [0, 1, 2].map(function (j) { return "b" + i + "_" + j; }); }))); }
+function luu() { var o = {}; oNhap().forEach(function (i) { o[i] = $(i).value; }); ghi("phieu_" + HIEN.ma, JSON.stringify(o)); }
+function napPhieu() { var o = {}; try { o = JSON.parse(doc("phieu_" + HIEN.ma) || "{}"); } catch (e) {}
+  oNhap().forEach(function (i) { $(i).value = o[i] || ""; }); }
+function xoaPhieu() { if (!confirm("Xoá toàn bộ phần đã nhập cho tình huống này?")) return;
+  oNhap().forEach(function (i) { $(i).value = ""; }); luu(); }
+
+function taiPhieu() {
+  var h = '<html><head><meta charset="utf-8"><style>body{font-family:"Times New Roman";font-size:13pt}td,th{border:1px solid #999;padding:4px;vertical-align:top}table{border-collapse:collapse;width:100%}</style></head><body>' +
+    "<p style='color:#B03A48'><b>Diễn tập giả lập – tình huống hư cấu</b></p>" +
+    "<h2>Phiếu diễn tập xử lý sự cố – " + e_($("tNhom").value || "Nhóm …") + "</h2>" +
+    "<p><b>Tình huống " + HIEN.ma + ":</b> " + e_(HIEN.ten) + "<br><b>Vai trò:</b> " + e_(HIEN.vai_tro) + "</p>" +
+    CAU_HOI.map(function (c, i) { return "<p><b>" + (i + 1) + ". " + e_(c) + "</b><br>" + e_($("cau" + i).value).replace(/\n/g, "<br>") + "</p>"; }).join("") +
+    "<p><b>Quy trình năm bước</b></p><table><tr><th>Bước</th><th>Ai làm</th><th>Làm gì</th><th>Trong bao lâu</th></tr>" +
+    BUOC.concat([["Người thay thế khi người phụ trách vắng mặt"], ["Ngoài giờ hành chính"]]).map(function (b, i) {
+      return "<tr><td>" + e_(b[0]) + "</td>" + [0, 1, 2].map(function (j) { return "<td>" + e_($("b" + i + "_" + j).value) + "</td>"; }).join("") + "</tr>"; }).join("") +
+    "</table><p><b>Chỗ quy chế chưa xử lý được:</b><br>" + e_($("tLoHong").value).replace(/\n/g, "<br>") + "</p></body></html>";
+  var b = new Blob(["﻿" + h], { type: "application/msword" });
+  var a = document.createElement("a"); a.href = URL.createObjectURL(b);
+  a.download = "phieu_dien_tap_" + HIEN.ma + ".doc"; document.body.appendChild(a); a.click(); document.body.removeChild(a);
+}
+</script>
+<script>chanTrang();</script>
+</body>
+</html>
